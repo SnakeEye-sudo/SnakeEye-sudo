@@ -10,8 +10,8 @@
 <!-- SnakeEye-Themed Animation: Animated Eye with Code Matrix Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="40" alt="Eye"/> **WATCHING • CODING • SECURING** <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="40" alt="Eye"/>
 
-<!-- Fixed Typing SVG - Reliable CDN with SnakeEye Branding -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=70&lines=SnakeEye%3A+Coder+%7C+AI+%7C+Security+%7C+Open+Source;🐍+Elite+Full-Stack+Developer;⚡+Building+the+Future+with+Code;🔐+Securing+the+Digital+Realm" alt="Typing SVG" />
+<!-- Animated Banner with Text Effect - Always Loads -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=SnakeEye:Coder|AI|Security&fontSize=35&color=0:00FF41,50:00FFFF,100:FF00FF&fontColor=fff&animation=fadeIn&stroke=00FF41&strokeWidth=2" alt="Animated Banner" width="100%"/>
 
 <!-- Animated Snake/Code Matrix Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
@@ -38,148 +38,81 @@
 <div align="center">
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Databases
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GITHUB STATS - ELITE PERFORMANCE
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats Card - Large Size -->
-<img src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&count_private=true&include_all_commits=true" width="495" alt="GitHub Stats" />
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FF41&text_color=FFFFFF&ring_color=FF00FF" alt="GitHub Stats" height="180"/>
 
-<!-- Top Languages Card - Large Size -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8" width="495" alt="Top Languages" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" height="180"/>
 
-</div>
+<!-- GitHub Streak Stats - Official Demolab Version -->
+<img src="https://github-readme-streak-stats.demolab.com/?user=SnakeEye-sudo&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=00FFFF" alt="GitHub Streak" width="90%"/>
 
-<div align="center">
+<!-- GitHub Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="90%"/>
 
-<!-- GitHub Streak Stats - Large Size -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=00FFFF" width="800" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- GitHub Trophies - Large Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" width="100%" alt="GitHub Trophies" />
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SnakeEye-sudo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=00FF41" alt="Contribution Graph" width="90%"/>
 
 </div>
 
 ---
 
-## 🌟 SIGNATURE PROJECTS
+## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 OpenJarvis
-**AI-Powered Virtual Assistant**
-
-🔹 Natural Language Processing
-🔹 Voice Command Integration
-🔹 Smart Automation Engine
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SnakeEye-sudo/OpenJarvis)
-
-</td>
-<td width="50%">
-
-### ⚡ QuantumMesh
-**Next-Gen Networking Framework**
-
-🔹 High-Performance Architecture
-🔹 Distributed Systems
-🔹 Real-time Data Processing
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SnakeEye-sudo/QuantumMesh)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 NeuralForge
-**Deep Learning Platform**
-
-🔹 Custom Neural Networks
-🔹 Model Training Pipeline
-🔹 Production Deployment
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SnakeEye-sudo/NeuralForge)
-
-</td>
-<td width="50%">
-
-### 🔐 More Projects Coming Soon...
-**Stay Tuned!**
-
-🔹 Cybersecurity Tools
-🔹 Blockchain Solutions
-🔹 Cloud Infrastructure
-
-[![Profile](https://img.shields.io/badge/View_All-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SnakeEye-sudo?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💡 WHAT I'M UP TO
-
-<div align="center">
+### 🎯 Current Focus
 
 ```python
 class SnakeEye:
     def __init__(self):
-        self.current_focus = [
-            "Building AI-powered automation tools",
-            "Exploring cutting-edge ML algorithms",
-            "Contributing to open source",
-            "Mastering cloud architecture"
-        ]
+        self.current_work = "Building AI-powered solutions"
+        self.learning = ["Advanced ML/AI", "Cloud Architecture", "Cybersecurity"]
+        self.collaborating_on = "Open Source Projects"
+        self.fun_fact = "I debug in my dreams 💭"
     
-    def daily_routine(self):
-        return "Code → Test → Deploy → Repeat ⚡"
-    
-    def mission(self):
+    def say_hi(self):
         return "Making the impossible, possible through code 🚀"
 ```
 
