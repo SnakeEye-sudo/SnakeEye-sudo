@@ -9,7 +9,7 @@
 > "Build reliably. Optimize ruthlessly. Deliver measurable impact."
 
 📍 India • Available for remote/global roles  
-📧 **krishna.sangam11@gmail.com** • Open for Freelancing / Remote Projects
+📧 **krishna.sagam11@gmail.com** • Open for Freelancing / Remote Projects
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SnakeEye-sudo&color=2F81F7&style=for-the-badge)](https://github.com/SnakeEye-sudo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangam-k-799ba8373/)
@@ -21,10 +21,15 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### Languages
 <div align="center">
-  <code>Python</code> • <code>C</code> • <code>C++</code> • <code>Java</code> • <code>HTML</code> • <code>PHP</code> • <code>SQL</code> • <code>MATLAB</code> • <code>Android</code> • <code>Flutter</code>
+  
+`Python` • `C` • `C++` • `Java` • `HTML` • `PHP` • `SQL` • `MATLAB` • `Android` • `Flutter`
+
 </div>
 
 ### Frontend
@@ -44,6 +49,9 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
+
 ### Databases & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -61,18 +69,30 @@
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=tokyonight&hide_border=true)
-
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -80,45 +100,37 @@
 ## 🚀 Featured Projects
 
 ### 🔹 [Chrono-DB - Time-Travel Database Engine](https://github.com/SnakeEye-sudo/Chrono-DB)
+
 **Tech:** Go, CRDT, Raft Consensus, PostgreSQL | A distributed temporal database that allows querying any historical state with millisecond precision. Implements Conflict-free Replicated Data Types (CRDTs) for multi-master replication and uses Raft consensus for strong consistency. Features include bi-temporal modeling, point-in-time recovery, and efficient storage through delta compression.
 
 ---
 
 ## 💼 Open for Opportunities
 
-<div align="center">
-
 🌍 **Remote-First** | 💻 **Freelance Projects** | 🤝 **Full-Time Roles**
 
 I'm actively seeking opportunities in:
-- Full Stack Development
-- AI/ML Engineering
-- Cloud Architecture
-- Technical Consulting
+
+- • Full Stack Development
+- • AI/ML Engineering
+- • Cloud Architecture
+- • Technical Consulting
 
 📫 Reach out: **krishna.sangam11@gmail.com**
-
-</div>
-
----
-
-<div align="center">
 
 ### 💖 Support My Work
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/snakeeye" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="150" ></a>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/snakeeye)
 
 **or support via UPI:** `krishna.sangam@ptaxis`
 
-</div>
-
 ---
 
-<div align="center">
-
 ### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake.svg)
 
