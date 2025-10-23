@@ -1,4 +1,4 @@
-<div align="center">
+me<div align="center">
 
 # 👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> SnakeEye
 
@@ -13,7 +13,9 @@
 ## 🔥 **About Me**
 
 <div align="center">
-<img alt="Coding" width="300" style="max-width: 100%; height: auto;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<img alt="Coder Avatar" width="300" style="max-width: 100%; height: auto;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 </div>
 
 ```terminal
@@ -48,30 +50,25 @@ $ cat skills.txt
 ### 🎯 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 🗄️ **Databases & Cloud**
+### 🗄️ **Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🛠️ **Tools & Platforms**
+### 🤖 **AI/ML**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
@@ -80,19 +77,16 @@ $ cat skills.txt
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages" style="max-width: 100%; height: auto;"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
-</div>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" style="max-width: 100%; height: auto;"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnakeEye-sudo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FF6D00" alt="Activity Graph" style="max-width: 100%; height: auto;"/>
-</div>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" style="max-width: 100%; height: auto;"/>
 
-### 🐍 **Contribution Snake Animation**
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" style="max-width: 100%; height: auto;"/>
+
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SnakeEye-sudo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF" style="max-width: 100%; height: auto;"/>
+
+</div>
 
 <div align="center">
   <picture>
@@ -157,6 +151,6 @@ $ cat skills.txt
 
 <div align="center">
   
-### ⭐ Show some love by starring my repositories!
-
-</div>
+  ### ⭐ Show some love by starring my repositories!
+  
+</div> 
