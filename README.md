@@ -2,7 +2,7 @@
 
 # ER. SANGAM KRISHNA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Tomorrow's+Tech" alt="Typing Animation" />
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
 
 ### 🌟 Full Stack Developer • AI Enthusiast • Open to Remote & Global
 
@@ -21,16 +21,14 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<div align="center">
+  <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>Java</code> • <code>C++</code> • <code>Go</code> • <code>Rust</code> • <code>Ruby</code> • <code>PHP</code> • <code>Kotlin</code> • <code>Swift</code> • <code>C#</code> • <code>Scala</code> • <code>R</code> • <code>Dart</code> • <code>Elixir</code> • <code>Haskell</code> • <code>Perl</code> • <code>Lua</code> • <code>Shell/Bash</code> • <code>SQL</code> • <code>HTML5</code> • <code>CSS3</code> • <code>SASS</code> • <code>LESS</code> • <code>Objective-C</code> • <code>Groovy</code> • <code>Julia</code> • <code>F#</code> • <code>Clojure</code> • <code>Erlang</code> • <code>Lisp</code> • <code>Assembly</code> • <code>VHDL</code> • <code>Verilog</code> • <code>COBOL</code> • <code>Fortran</code> • <code>Pascal</code> • <code>Ada</code> • <code>Prolog</code> • <code>Scheme</code> • <code>OCaml</code> • <code>Racket</code> • <code>Crystal</code> • <code>Nim</code> • <code>Zig</code> • <code>V</code> • <code>D</code> • <code>Solidity</code> • <code>MATLAB</code>
+</div>
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -38,6 +36,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Databases
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -47,6 +46,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI/ML & Cloud
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -55,24 +55,20 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools & DevOps
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7" alt="Top Languages" width="40%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7" alt="Top Languages" width="40%" />
 </div>
 
 ---
@@ -81,14 +77,17 @@
 
 <div align="center">
 
-### 🔹 [Project Name 1](https://github.com/SnakeEye-sudo)
-**Tech:** React, Node.js, MongoDB | Brief description of what this project does
+### 🔹 [QuantumMesh - Distributed Quantum Circuit Simulator](https://github.com/SnakeEye-sudo/QuantumMesh)
 
-### 🔹 [Project Name 2](https://github.com/SnakeEye-sudo)
-**Tech:** Python, TensorFlow, FastAPI | Brief description of what this project does
+**Tech:** Rust, CUDA, WebAssembly, Quantum Computing | A revolutionary distributed quantum circuit simulator that leverages GPU acceleration and fault-tolerant algorithms to simulate quantum circuits with 40+ qubits. Implements novel error correction codes and supports real-time visualization of quantum state evolution. Uses Rust for zero-cost abstractions and memory safety in parallel quantum gate operations.
 
-### 🔹 [Project Name 3](https://github.com/SnakeEye-sudo)
-**Tech:** Next.js, TypeScript, PostgreSQL | Brief description of what this project does
+### 🔹 [NeuralForge - Self-Evolving ML Pipeline](https://github.com/SnakeEye-sudo/NeuralForge)
+
+**Tech:** Haskell, TensorFlow, Kubernetes, AutoML | An autonomous machine learning framework that uses meta-learning and genetic algorithms to evolve neural architectures and hyperparameters in real-time. Features include automatic feature engineering, distributed training orchestration, and continuous model retraining with zero-downtime deployments. Pure functional approach ensures reproducibility and mathematical correctness.
+
+### 🔹 [Chrono-DB - Time-Travel Database Engine](https://github.com/SnakeEye-sudo/Chrono-DB)
+
+**Tech:** Go, CRDT, Raft Consensus, PostgreSQL | A distributed temporal database that allows querying any historical state with millisecond precision. Implements Conflict-free Replicated Data Types (CRDTs) for multi-master replication and uses Raft consensus for strong consistency. Features include bi-temporal modeling, point-in-time recovery, and efficient storage through delta compression.
 
 </div>
 
@@ -101,6 +100,7 @@
 🌍 **Remote-First** | 💻 **Freelance Projects** | 🤝 **Full-Time Roles**
 
 I'm actively seeking opportunities in:
+
 - Full Stack Development
 - AI/ML Engineering
 - Cloud Architecture
@@ -130,6 +130,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Snake animation](https://github.com/SnakeEye-sudo/SnakeEye-sudo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake.svg)
 
 </div>
