@@ -16,7 +16,6 @@
 
 <!-- GitHub Stats Cards -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=FF00FF&text_color=00FFFF"/>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF00&ring=FF00FF&fire=FF6600&currStreakLabel=00FFFF"/>
 
 <br/>
@@ -42,62 +41,41 @@
 ![Python](https://img.shields.io/badge/Python-FF6600?style=for-the-badge&logo=python&logoColor=FFFF00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=000000)
-![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
-![Rust](https://img.shields.io/badge/Rust-FF6600?style=for-the-badge&logo=rust&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-00FF00?style=for-the-badge&logo=oracle&logoColor=FF0000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00FF00)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FF6600)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFF00)
 
-### **<span style="color: #FF00FF;">Frameworks & Tools</span>**
+### **<span style="color: #00FF00;">Frameworks & Tools</span>**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00FF00)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FFFF)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFF00)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00FF00)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FF00FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFF00)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=00FF00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
 
-</div>
+### **<span style="color: #FF00FF;">Cloud & DevOps</span>**
 
----
-
-## 📊 **<span style="color: #00FF00;">CONTRIBUTION GRAPH</span>**
-
-<div align="center">
-
-<!-- Premium GitHub Contribution Activity Graph with Dark Neon Theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SnakeEye-sudo&custom_title=SnakeEye's%20Contribution%20Graph&bg_color=0d1117&color=00ff41&line=00ffff&point=ff00ff&area_color=00ff41&title_color=00ff41&area=true&hide_border=false" width="100%" alt="Contribution Graph"/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=00FF00)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFF00)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
 </div>
 
 ---
 
-## 🎮 **<span style="color: #FF6600;">PROJECTS & ACHIEVEMENTS</span>**
+## 🌐 **<span style="color: #FFFF00;">CONNECT WITH ME</span>**
 
 <div align="center">
 
-### 🏆 **<span style="color: #FFFF00;">Featured Projects</span>**
+### _<span style="color: #00FF00;">"Let's build something extraordinary together!"</span>_ 🤝
 
-🔥 **Project Alpha** - Revolutionary AI-powered code optimizer  
-⚡ **Project Beta** - Next-gen cloud infrastructure manager  
-💎 **Project Gamma** - Ultra-fast data processing pipeline  
-🚀 **Project Delta** - Advanced cybersecurity framework
-
-### 📈 **<span style="color: #00FFFF;">GitHub Achievements</span>**
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 💬 **<span style="color: #FF00FF;">CONNECT WITH ME</span>**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snakeeye)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/snakeeye)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/snakeeye)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangam-k-799ba8373/)
+[![X.com](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SangamKrishna3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sangam_krishnaa_/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Krishna.sangam11@gmail.com)
 
 </div>
@@ -110,8 +88,8 @@
 
 ### 💖 _<span style="color: #FF6600;">"Great code is born from passion and fueled by coffee"</span>_ ☕
 
-<a href="https://buymeacoffee.com/snakeeye" target="_blank">  
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" height="60" alt="Buy Me A Coffee"/>
+<a href="https://buymeacoffee.com/snakeeye" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" height="60" alt="Buy Me A Coffee"/>
 </a>
 
 <br/><br/>
