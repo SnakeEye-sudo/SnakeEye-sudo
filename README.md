@@ -103,6 +103,28 @@
 <div align="center">
 
 <!-- GitHub Contribution Snake Animation -->
+
+## 🏆 **<span style="color: #FF00FF;">GITHUB TROPHIES</span>**
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=matrix&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 **<span style="color: #00FFFF;">PROFILE STATS</span>**
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=SnakeEye-sudo&color=00ff00&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/SnakeEye-sudo?label=Followers&style=social)](https://github.com/SnakeEye-sudo)
+[![GitHub stars](https://img.shields.io/github/stars/SnakeEye-sudo?label=Stars&style=social)](https://github.com/SnakeEye-sudo)
+
+</div>
+
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake.svg">
@@ -125,6 +147,26 @@
 ### 🐍 _<span style="color: #00FFFF;">"Like a snake shedding its skin, a true developer constantly evolves—writing cleaner code, solving harder problems, and leaving behind yesterday's limitations. Strike with precision, adapt with grace."</span>_ ⚡
 
 <br/>
+
+---
+
+<div align="center">
+
+## 💭 **<span style="color: #FFFF00;">RANDOM DEV QUOTE</span>**
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing+together!+🚀;Open+to+collaborations+%26+opportunities!+🤝)](https://git.io/typing-svg)
+
+</div>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=120&section=footer" width="100%"/>
