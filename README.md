@@ -17,12 +17,10 @@
 <!-- GitHub Stats Cards -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=FF00FF&text_color=00FFFF"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF00&ring=FF00FF&fire=FF6600&currStreakLabel=00FFFF"/>
-
 <br/>
 
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=FF00FF&text_color=00FFFF"/>
-
 <br/>
 
 <!-- GitHub Activity Graph -->
@@ -40,98 +38,58 @@
 
 ![Python](https://img.shields.io/badge/Python-FF6600?style=for-the-badge&logo=python&logoColor=FFFF00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=000000)
-![Java](https://img.shields.io/badge/Java-00FF00?style=for-the-badge&logo=oracle&logoColor=FF0000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00FF00)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FF6600)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFF00)
+![Java](https://img.shields.io/badge/Java-00FFFF?style=for-the-badge&logo=java&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-00FF00?style=for-the-badge&logo=cplusplus&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-FF00FF?style=for-the-badge&logo=html5&logoColor=FFFF00)
+![CSS3](https://img.shields.io/badge/CSS3-00FFFF?style=for-the-badge&logo=css3&logoColor=000000)
 
 ### **<span style="color: #00FF00;">Frameworks & Tools</span>**
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00FF00)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FFFF)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFF00)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00FF00)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FF00FF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFF00)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=00FF00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
-
-### **<span style="color: #FF00FF;">Cloud & DevOps</span>**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=00FF00)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFF00)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00FFFF)
+
+### **<span style="color: #FF00FF;">Databases</span>**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFF00)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=00FFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFF00)
 
 </div>
 
 ---
 
-## 🌐 **<span style="color: #FFFF00;">CONNECT WITH ME</span>**
+## 🏆 **<span style="color: #FFFF00;">GITHUB TROPHIES</span>**
 
 <div align="center">
-
-### _<span style="color: #00FF00;">"Let's build something extraordinary together!"</span>_ 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangam-k-799ba8373/)
-[![X.com](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SangamKrishna3)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sangam_krishnaa_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Krishna.sangam11@gmail.com)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 💎 **<span style="color: #00FF00;">SUPPORT MY WORK</span>**
+## 📊 **<span style="color: #00FFFF;">PROFILE VIEWS & FOLLOWERS</span>**
 
 <div align="center">
 
-### 💖 _<span style="color: #FF6600;">"Great code is born from passion and fueled by coffee"</span>_ ☕
-
-<a href="https://buymeacoffee.com/snakeeye" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" height="60" alt="Buy Me A Coffee"/>
-</a>
-
-<br/><br/>
-
-<p style="color: #00FFFF; font-size: 18px;">Your support helps me create more amazing projects! 🚀</p>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- GitHub Contribution Snake Animation -->
-
-## 🏆 **<span style="color: #FF00FF;">GITHUB TROPHIES</span>**
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=matrix&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 **<span style="color: #00FFFF;">PROFILE STATS</span>**
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SnakeEye-sudo&color=00ff00&style=flat-square&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=SnakeEye-sudo&label=Profile%20Views&color=00FF00&style=flat-square)](https://github.com/SnakeEye-sudo)
 [![GitHub followers](https://img.shields.io/github/followers/SnakeEye-sudo?label=Followers&style=social)](https://github.com/SnakeEye-sudo)
 [![GitHub stars](https://img.shields.io/github/stars/SnakeEye-sudo?label=Stars&style=social)](https://github.com/SnakeEye-sudo)
 
 </div>
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/><br/>
+<br/>
+<br/>
 
 <!-- Premium Animated Snake Art -->
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Animated Snake"/>
@@ -146,7 +104,7 @@
 
 ### 🐍 _<span style="color: #00FFFF;">"Like a snake shedding its skin, a true developer constantly evolves—writing cleaner code, solving harder problems, and leaving behind yesterday's limitations. Strike with precision, adapt with grace."</span>_ ⚡
 
-<br/>
+</div>
 
 ---
 
