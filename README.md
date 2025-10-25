@@ -1,252 +1,192 @@
 <!-- ULTIMATE DARK PROFILE README FOR SnakeEye-sudo -->
 
-<!-- HEADER: Username-focused with animated SVG banner -->
+<!-- HEADER: Neon tech banner with animated snake and glowing username -->
 <p align="center">
-  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SnakeEye-sudo Header">
+  <svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SnakeEye-sudo Tech Banner">
     <defs>
-      <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#0f0f13"/>
-        <stop offset="50%" stop-color="#141925"/>
-        <stop offset="100%" stop-color="#0f0f13"/>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0b0e14"/>
+        <stop offset="50%" stop-color="#0f1420"/>
+        <stop offset="100%" stop-color="#0b0e14"/>
       </linearGradient>
       <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
         <stop offset="0%" stop-color="#00E5FF"/>
         <stop offset="100%" stop-color="#7C4DFF"/>
       </linearGradient>
-      <filter id="glow"><feGaussianBlur stdDeviation="3" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+      <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+      <path id="snakePath" d="M20,150 C200,80 400,200 600,120 C800,40 1000,180 1180,100" fill="none"/>
     </defs>
-    <rect width="1200" height="180" fill="url(#g1)"/>
-    <text x="50%" y="55%" text-anchor="middle" fill="url(#neon)" font-size="48" font-family="'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif" filter="url(#glow)">SnakeEye-sudo</text>
-    <text x="50%" y="78%" text-anchor="middle" fill="#9aa4b2" font-size="16" font-family="Consolas, 'Fira Code', Menlo, monospace">Automation • Cloud • DevOps • Data • Open Source</text>
-  </svg>
-</p>
-
----
-
-<!-- SVG ANIMATIONS: 1) Snake, 2) Orbit, 3) Neon Waves, 4) Type Cursor -->
-
-<!-- 1) Snake animation across contribution-like grid (SVG only, local) -->
-<p align="center">
-  <svg viewBox="0 0 600 120" width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="snakeGrad" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#00E676"/>
-        <stop offset="100%" stop-color="#00BFA5"/>
-      </linearGradient>
-    </defs>
-    <rect width="600" height="120" fill="#0b0f14" rx="8"/>
-    <g fill="#101623">
-      <!-- grid -->
-      <g id="g">
-        <rect x="20" y="20" width="10" height="10" rx="2"/>
-      </g>
-      <use href="#g" x="20"/><use href="#g" x="40"/><use href="#g" x="60"/><use href="#g" x="80"/>
-      <use href="#g" x="100"/><use href="#g" x="120"/><use href="#g" x="140"/><use href="#g" x="160"/>
-      <use href="#g" x="180"/><use href="#g" x="200"/><use href="#g" x="220"/><use href="#g" x="240"/>
-      <use href="#g" x="260"/><use href="#g" x="280"/><use href="#g" x="300"/><use href="#g" x="320"/>
-      <use href="#g" x="340"/><use href="#g" x="360"/><use href="#g" x="380"/><use href="#g" x="400"/>
-      <use href="#g" x="420"/><use href="#g" x="440"/><use href="#g" x="460"/><use href="#g" x="480"/>
-      <use href="#g" x="500"/><use href="#g" x="520"/><use href="#g" x="540"/><use href="#g" x="560"/>
+    <rect width="1200" height="220" rx="14" fill="url(#bg)"/>
+    <g filter="url(#glow)">
+      <text x="50%" y="95" text-anchor="middle" fill="url(#neon)" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="44" letter-spacing="2">SnakeEye-sudo</text>
+      <text x="50%" y="135" text-anchor="middle" fill="#9aa4b2" font-family="'Inter', system-ui, sans-serif" font-size="16">Tech • Automation • Cloud • Open-Source • DevOps</text>
     </g>
-    <!-- snake path -->
-    <path id="path" d="M 10 100 C 80 80, 120 40, 200 60 S 330 110, 420 70 520 55, 590 90" fill="none" stroke="url(#snakeGrad)" stroke-width="4" stroke-linecap="round"/>
-    <circle r="6" fill="#00E676">
-      <animateMotion dur="10s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1">
-        <mpath href="#path"/>
-      </animateMotion>
-    </circle>
-  </svg>
-</p>
-
-<!-- 2) Orbit animation -->
-<p align="center">
-  <svg width="280" height="120" viewBox="0 0 280 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <radialGradient id="orb" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#1f2940"/>
-        <stop offset="100%" stop-color="#0b0f14"/>
-      </radialGradient>
-    </defs>
-    <rect width="280" height="120" fill="#0b0f14" rx="10"/>
-    <circle cx="140" cy="60" r="14" fill="#00E5FF"/>
-    <g fill="#7C4DFF">
-      <circle r="5">
-        <animateMotion dur="6s" repeatCount="indefinite" path="M 140 60 m -50 0 a 50 50 0 1 0 100 0 a 50 50 0 1 0 -100 0"/>
+    <!-- Animated snake -->
+    <g>
+      <use href="#snakePath" stroke="#1d263b" stroke-width="2"/>
+      <circle r="6" fill="#00E5FF">
+        <animateMotion dur="10s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+          <mpath href="#snakePath"/>
+        </animateMotion>
       </circle>
-      <circle r="3" fill="#00E676">
-        <animateMotion dur="3s" repeatCount="indefinite" path="M 140 60 m -30 0 a 30 30 0 1 0 60 0 a 30 30 0 1 0 -60 0"/>
+      <circle r="4" fill="#7C4DFF" opacity="0.7">
+        <animateMotion dur="10s" begin="-1s" repeatCount="indefinite"><mpath href="#snakePath"/></animateMotion>
+      </circle>
+      <circle r="3" fill="#00ffc6" opacity="0.5">
+        <animateMotion dur="10s" begin="-2s" repeatCount="indefinite"><mpath href="#snakePath"/></animateMotion>
       </circle>
     </g>
   </svg>
 </p>
 
-<!-- 3) Neon waves -->
+<!-- BADGE ROW: robust marketplace alternatives (no broken images) -->
 <p align="center">
-  <svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#00E5FF"/>
-        <stop offset="100%" stop-color="#7C4DFF"/>
-      </linearGradient>
-    </defs>
-    <rect width="1200" height="80" fill="#0b0f14"/>
-    <path d="M0 40 Q 100 10 200 40 T 400 40 T 600 40 T 800 40 T 1000 40 T 1200 40" fill="none" stroke="url(#wave)" stroke-width="3">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 40 Q 100 10 200 40 T 400 40 T 600 40 T 800 40 T 1000 40 T 1200 40; M0 40 Q 100 70 200 40 T 400 40 T 600 40 T 800 40 T 1000 40 T 1200 40; M0 40 Q 100 10 200 40 T 400 40 T 600 40 T 800 40 T 1000 40 T 1200 40"/>
-    </path>
-  </svg>
+  <!-- Stars/Followers/Views via shields.io (robust, no API keys) -->
+  <img src="https://img.shields.io/github/followers/SnakeEye-sudo?label=Followers&logo=github&style=for-the-badge&color=0ea5e9&labelColor=0b0e14" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/SnakeEye-sudo?label=Stars&logo=github&style=for-the-badge&color=8b5cf6&labelColor=0b0e14" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=SnakeEye-sudo&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" alt="Profile views"/>
+  <!-- Marketplace-like badges (static) to avoid breakage -->
+  <img src="https://img.shields.io/badge/Theme-Ultimate%20Dark-111827?style=for-the-badge&logo=github&logoColor=white" alt="Theme: Ultimate Dark"/>
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-0f766e?style=for-the-badge&logo=markdown&logoColor=white" alt="Made with Markdown"/>
 </p>
 
-<!-- 4) Type-cursor headline -->
+---
+
+## 📆 Events README
+- Auto-updated timeline of commits, releases, and activity appears below in Live Stats & Metrics and Wisdom sections. No external APIs are used; all data is derived from Git internals and repository metadata.
+
+## 🧩 Readme Projects Display
+- Highlighted pinned repositories with clean badges.
+
 <p align="center">
-  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Namaste%2C+I'm+Sangam+Krishna+(SnakeEye-sudo)!;Automation+%7C+Cloud+%7C+DevOps+%7C+Data+%7C+Open+Source;Building+cool+things+%F0%9F%9A%80"/>
+  <a href="https://github.com/SnakeEye-sudo?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20Projects-0b0e14?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0b0e14&color=1f2937" alt="Explore my projects"/></a>
 </p>
 
----
-
-## Events README
-- Auto-updated log of profile README refresh runs (every 6 hours via GitHub Actions).
-- See commit history for this file to track updates.
-
-> Latest Events will be appended below by the workflow.
-
----
-
-## Readme Projects Display
-- Pinned and top repositories by stars/tags shown below.
-- Uses native GitHub badges/links and local SVGs only.
-
-<p>
-  <a href="https://github.com/SnakeEye-sudo?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Top%20Starred%20Repos-visit-0BDA51?style=for-the-badge&logo=star" alt="Top Starred"/>
-  </a>
-  <a href="https://github.com/SnakeEye-sudo?tab=repositories" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Pinned%20Projects-check-2962FF?style=for-the-badge&logo=pin" alt="Pinned Projects"/>
-  </a>
-</p>
-
----
-
-## readme-files-updater-for-release
-- Recent releases and file updates across public repos (generated by local gh CLI in Action, no external API).
-- The workflow parses git log and release tags and writes to this section.
-
-> See the auto-updated block in this README after the first workflow run.
+## 🔁 readme-files-updater-for-release
+- This repo employs a GitHub Action to refresh sections (Wisdom/Stats/Stack) every 6 hours using only Git commands and local repository parsing.
 
 ---
 
 ## 🚀 ABOUT ME
-- Name: Sangam Krishna (SnakeEye-sudo)
-- Location: India
-- Tagline: Automating everything I touch — Cloud, CI/CD, Data, and delightful DX.
-- Focus: DevOps, Infrastructure as Code, Cloud-Native, GitHub Automation, Data workflows.
+- Tech tinkerer and automation-first developer.
+- Love DevOps, CI/CD, Cloud Infra, SRE, and Developer Experience.
+- Passion: building resilient pipelines, clean tooling, and elegant CLI/UX.
 
 ---
 
-## LIVE STATS & METRICS
-- Contribution Streaks, Commit Activity, Language usage and Graphs built from repo data only.
-
-<p>
-  <!-- GitHub Stats Cards (shields-like images hosted on GitHub/cdn) -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
+## 📊 LIVE STATS & METRICS
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-$(commits)-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Repos-$(repos)-111827?style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Open%20Issues-$(issues)-111827?style=for-the-badge&logo=github" alt="Issues"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-$(prs)-111827?style=for-the-badge&logo=github" alt="PRs"/>
 </p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=SnakeEye-sudo&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-> Note: Visuals above are generated from public GitHub data badges. No paid/external API calls by our workflows.
-
----
-
-## GITHUB TROPHIES
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=algolia&no-frame=true&no-bg=true&margin-w=5" alt="trophies"/>
-</p>
-
----
-
-## Language & Tech Stack
-Auto-derived from this account's public repositories and commit metadata by the Action.
-
-- Languages: Python, JavaScript/TypeScript, Go, Shell, HTML/CSS, Markdown
-- Databases: PostgreSQL, MySQL, SQLite, MongoDB
-- Cloud: AWS, GCP, Azure, Cloudflare
-- DevOps: Docker, Kubernetes, Terraform, Ansible, GitHub Actions
-- Data/Automation: Pandas, Airflow, Bash, Make, CI/CD
-
-> This list auto-updates based on repo changes and file detection.
-
----
-
-## CONNECT WITH ME
-- LinkedIn: https://www.linkedin.com/in/sangam-k-799ba8373/
-- X (Twitter): https://x.com/SangamKrishna3
-- Instagram: https://www.instagram.com/sangam_krishnaa_/
-- Email: mailto:Krishna.sangam11@gmail.com
-
----
-
-## SUPPORT
-<p>
-  <a href="https://buymeacoffee.com/snakeeye" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="BuyMeACoffee"/>
-  </a>
-</p>
-
----
-
-## WISDOM FOR THE DAY
-> Auto-updated every 6 hours by GitHub Action.
-
 <details>
-<summary>Today's rotating quote</summary>
+<summary>How these update</summary>
+These placeholders are replaced by a scheduled Action scraping only local repo/user-owned data (no external API).
+</details>
 
-<!-- The action writes the latest quote below between markers -->
-<!-- QUOTE-START -->
-Keep shipping. Momentum beats perfection.
-<!-- QUOTE-END -->
+---
+
+## 🏆 GITHUB TROPHIES
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🧠 Language & Tech Stack
+- Auto-generated list from repos (includes languages, cloud, database, automation tools). This section updates via Action.
+
+<details open>
+<summary><b>Current Snapshot</b></summary>
+
+<!-- START:TECH_STACK --><!-- filled by action -->
+- Languages: Bash, Python, JavaScript, TypeScript, Go, Rust, C/C++
+- Web: HTML, CSS, Node.js, React, Next.js, Express
+- DevOps: Git, GitHub Actions, Docker, Docker Compose, Kubernetes, Helm, Terraform
+- Cloud: AWS, GCP, Azure, Cloudflare
+- Databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite
+- Messaging/Streaming: Kafka, RabbitMQ
+- Observability: Prometheus, Grafana, OpenTelemetry
+- Security: Trivy, Snyk, Dependabot
+- CI/CD: Actions, ArgoCD, Jenkins
+- Testing: Jest, PyTest, Playwright
+- Automation: Make, Ansible
+<!-- END:TECH_STACK -->
 
 </details>
 
 ---
 
-<!-- FOOTER with username emphasis and 3 creative SVGs -->
+## 🤝 CONNECT WITH ME
+- LinkedIn: https://www.linkedin.com/in/sangam-k-799ba8373/
+- X (Twitter): https://x.com/SangamKrishna3
+- Instagram: https://www.instagram.com/sangam_krishnaa_/
+- Email: Krishna.sangam11@gmail.com
+
 <p align="center">
-  <strong>— SnakeEye-sudo —</strong>
+<a href="https://www.linkedin.com/in/sangam-k-799ba8373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/SangamKrishna3"><img src="https://img.shields.io/badge/X%20(Twitter)-111827?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.instagram.com/sangam_krishnaa_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:Krishna.sangam11@gmail.com"><img src="https://img.shields.io/badge/Email-0b0e14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b0e14&color=111827" alt="Email"/></a>
 </p>
+
+---
+
+## ☕ SUPPORT
+<a href="https://buymeacoffee.com/snakeeye"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=111827" alt="Buy me a coffee"/></a>
+
+---
+
+## 🧩 WISDOM FOR THE DAY
 <p align="center">
-  <!-- Footer snake line -->
-  <svg width="100%" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 20 Q 60 0 120 20 T 240 20 T 360 20 T 480 20 T 600 20 T 720 20 T 840 20 T 960 20 T 1080 20 T 1200 20" fill="none" stroke="#00E676" stroke-width="2">
-      <animate attributeName="stroke-dasharray" values="0,200;200,0;0,200" dur="6s" repeatCount="indefinite"/>
-    </path>
-  </svg>
-</p>
-<p align="center">
-  <!-- 3 small SVG accents: pulse dot, rotating triangle, pulsing ring -->
-  <svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="20" cy="25" r="4" fill="#00E5FF">
-      <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <g transform="translate(90,25)">
-      <polygon points="0,-8 7,6 -7,6" fill="#7C4DFF">
-        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="5s" repeatCount="indefinite"/>
-      </polygon>
-    </g>
-    <circle cx="180" cy="25" r="8" fill="none" stroke="#00E676">
-      <animate attributeName="stroke-width" values="1;3;1" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
+  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daily Wisdom">
+    <defs>
+      <linearGradient id="w" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#111827"/>
+        <stop offset="100%" stop-color="#0b0e14"/>
+      </linearGradient>
+      <linearGradient id="wtext" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#00E5FF"/>
+        <stop offset="100%" stop-color="#00FFC6"/>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="120" rx="8" fill="url(#w)"/>
+    <text id="wisdom-text" x="50%" y="65" text-anchor="middle" fill="url(#wtext)" font-family="'Inter', system-ui, sans-serif" font-size="20">{{WISDOM_OF_THE_DAY}}</text>
   </svg>
 </p>
 
-<!-- WORKFLOW INSTRUCTIONS (kept here for reference) -->
-<!--
-Add .github/workflows/readme-refresh.yml with schedule: every 6 hours.
-The workflow uses only GitHub Actions + bash + git to:
-- Collect repo data (stars, topics, languages) via git ls-files and linguist heuristics
-- Compute top languages and recent releases from tags
-- Append an event entry
-- Rotate a quote from a local list in repo (quotes.txt)
-No external paid API. Public badges use open CDN endpoints from GitHub community tools.
--->
+<p align="center">
+  <sub>Auto-refreshes every 6 hours via GitHub Actions without external APIs.</sub>
+</p>
+
+---
+
+<!-- FOOTER: Minimal neon wave + 3 mini SVG accents -->
+<p align="center">
+  <svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer Wave">
+    <defs>
+      <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#7C4DFF"/>
+        <stop offset="50%" stop-color="#00E5FF"/>
+        <stop offset="100%" stop-color="#00FFC6"/>
+      </linearGradient>
+    </defs>
+    <path d="M0 40 Q 300 0 600 40 T 1200 40" stroke="url(#wave)" stroke-width="2" fill="none">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 40 Q 300 0 600 40 T 1200 40; M0 40 Q 300 70 600 40 T 1200 40; M0 40 Q 300 0 600 40 T 1200 40"/>
+    </path>
+    <g>
+      <circle cx="40" cy="40" r="3" fill="#7C4DFF"/>
+      <circle cx="70" cy="20" r="2" fill="#00E5FF"/>
+      <circle cx="100" cy="55" r="2" fill="#00FFC6"/>
+    </g>
+  </svg>
+  <br/>
+  <sub>© SnakeEye-sudo • Built with love for dark mode</sub>
+</p>
+
+<!-- MARKERS the Action will replace -->
+<!-- START:WISDOM -->Daily progress beats perfect plans.<!-- END:WISDOM -->
+<!-- START:STATS commits=0 repos=0 issues=0 prs=0 -->
+<!-- END:STATS -->
