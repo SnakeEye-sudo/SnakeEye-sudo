@@ -1,5 +1,11 @@
 <div align="center">
 
+# 🐍 **SNAKEEYE** 🐍
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=SnakeEye&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=00F5FF&desc=Code%20Never%20Sleeps%20🌙&descAlignY=55&descSize=20)
+
+</div>
+
 ---
 
 ## 🎯 **<span style="color: #00F5FF;">My GitHub Journey</span>** 📊
@@ -7,8 +13,11 @@
 <div align="center">
 
 <!-- Auto-updating GitHub Stats Cards with Ultra-Vibrant Neon Theme -->
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=00F5FF&border_radius=10&ring_color=00F5FF&fire_color=FF00FF&cache_seconds=21600"/>
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=FFFFFF&border_radius=10&cache_seconds=21600"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=00F5FF&border_radius=10&cache_seconds=21600"/>
 
 </div>
@@ -45,16 +54,13 @@
 
 ---
 
-## 🐍 **<span style="color: #FFD700;">Contribution Dynamics</span>** 🎨
+## 🐍 **<span style="color: #00F5FF;">Contribution Dynamics</span>** 🎨
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-snake.svg" />
-</picture>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SnakeEye&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=00F5FF&icon_color=FF00FF&layout=compact"/>
-<img src="https://ghchart.rshah.org/00F5FF/SnakeEye-sudo"/>
+![github-snake](https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -108,7 +114,5 @@
 **⚡ Built with passion by SnakeEye | Code never sleeps 🌙**
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-Auto%20Refresh%20Every%206%20Hours-00F5FF?style=for-the-badge)
-
-</div>
 
 </div>
