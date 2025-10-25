@@ -34,144 +34,149 @@
     <p>
       <a href="mailto:snakeeye.sudo@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-ProtonMail-7c4dff?logo=protonmail&logoColor=white" /></a>
       <a href="https://t.me/snakeeyesudo"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-00e5ff?logo=telegram&logoColor=white" /></a>
-      <a href="https://x.com/snakeeyesudo"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-ff3d81?logo=x&logoColor=white" /></a>
     </p>
   </div>
 </details>
 
-<!-- RECENT EVENTS (UNCHANGED CONTENT BLOCK FROM README EVENTS IF PRESENT) -->
-<details open>
-  <summary>⚡ Recent Events</summary>
+---
 
-  <!-- Keep a compact list format for reliability -->
-  <ul>
-    <li>Shipped reusable GH Actions for policy-as-code checks.</li>
-    <li>Rolled out zero-downtime cluster upgrades via surge deployments.</li>
-    <li>Improved SBOM generation with multi-stage pipelines.</li>
-  </ul>
-</details>
-
-<!-- FEATURED PROJECTS (RECHECKED, NO BROKEN BADGES/IMAGES) -->
-<details open>
-  <summary>🚀 Featured Projects</summary>
-
-  <!-- Use shields.io only and repo-native images -->
-  <table>
-    <tr>
-      <td>
-        <b><a href="https://github.com/SnakeEye-sudo/neon-ci-toolkit">neon-ci-toolkit</a></b>
-        <br/>
-        Opinionated GitHub Actions templates for secure CI, cache, SBOM, and releases.
-        <br/>
-        <img alt="Stars" src="https://img.shields.io/github/stars/SnakeEye-sudo/neon-ci-toolkit?style=flat&color=00e5ff" />
-        <img alt="Issues" src="https://img.shields.io/github/issues/SnakeEye-sudo/neon-ci-toolkit?style=flat&color=7c4dff" />
-        <img alt="License" src="https://img.shields.io/github/license/SnakeEye-sudo/neon-ci-toolkit?style=flat&color=ff3d81" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/SnakeEye-sudo/infra-glow">infra-glow</a></b>
-        <br/>
-        Terraform + policy packs for secure multi-cloud landing zones.
-        <br/>
-        <img alt="Stars" src="https://img.shields.io/github/stars/SnakeEye-sudo/infra-glow?style=flat&color=00e5ff" />
-        <img alt="Issues" src="https://img.shields.io/github/issues/SnakeEye-sudo/infra-glow?style=flat&color=7c4dff" />
-        <img alt="License" src="https://img.shields.io/github/license/SnakeEye-sudo/infra-glow?style=flat&color=ff3d81" />
-      </td>
-    </tr>
-  </table>
-</details>
-
-<!-- LATEST RELEASES (ROBUST BADGES, AVOID BROKEN MARKDOWN/SVG) -->
-<details open>
-  <summary>📦 Latest Releases</summary>
-
-  <p>
-    <a href="https://github.com/SnakeEye-sudo/neon-ci-toolkit/releases/latest">
-      <img alt="neon-ci-toolkit latest" src="https://img.shields.io/github/v/release/SnakeEye-sudo/neon-ci-toolkit?color=00e5ff&label=neon-ci-toolkit&style=for-the-badge" />
-    </a>
-    <a href="https://github.com/SnakeEye-sudo/infra-glow/releases/latest">
-      <img alt="infra-glow latest" src="https://img.shields.io/github/v/release/SnakeEye-sudo/infra-glow?color=7c4dff&label=infra-glow&style=for-the-badge" />
-    </a>
-  </p>
-</details>
-
-<!-- LIVE STATS & METRICS (SAFE, NO THIRD-PARTY DYNAMIC APIS BEYOND SHIELDS/CDN) -->
+<!-- NEON TECH STACK SECTION -->
 <details>
-  <summary>📊 Stats</summary>
+  <summary><b>🔧 Tech Stack</b></summary>
 
-  <p>
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=SnakeEye-sudo&theme=transparent&ring=00e5ff&fire=ff3d81&currStreakLabel=7c4dff" />
-  </p>
-  <p>
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&title_color=00e5ff&text_color=cfeaff&bg_color=00000000&hide_border=true" />
-  </p>
-</details>
+  <div>
 
-<!-- TROPHIES (FALLBACK-SAFE) -->
-<details>
-  <summary>🏆 Trophies</summary>
+  ### Platforms & Orchestration
   <p>
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=juicyfresh&no-frame=true&no-bg=true&column=6" />
-  </p>
-</details>
-
-<!-- TECH STACK -->
-<details open>
-  <summary>🧠 Tech Stack</summary>
-  <p>
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white" />
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7c4dff?logo=terraform&logoColor=white" />
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
     <img alt="Nix" src="https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=white" />
   </p>
+
+  ### CI/CD & DevOps
+  <p>
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+    <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white" />
+    <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white" />
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+  </p>
+
+  ### Languages
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+    <img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white" />
+  </p>
+
+  ### Security & Observability
+  <p>
+    <img alt="Vault" src="https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white" />
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+    <img alt="Trivy" src="https://img.shields.io/badge/Trivy-1904DA?logo=trivy&logoColor=white" />
+    <img alt="Falco" src="https://img.shields.io/badge/Falco-00AEFF?logo=falco&logoColor=white" />
+  </p>
+
+  </div>
 </details>
 
-<!-- CONNECT -->
-<details open>
-  <summary>🌐 Connect</summary>
-  <p>
-    <a href="mailto:snakeeye.sudo@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-ProtonMail-7c4dff?logo=protonmail&logoColor=white" /></a>
-    <a href="https://t.me/snakeeyesudo"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-00e5ff?logo=telegram&logoColor=white" /></a>
-    <a href="https://x.com/snakeeyesudo"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-ff3d81?logo=x&logoColor=white" /></a>
+---
+
+<!-- GITHUB TROPHIES (Professional) -->
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </p>
 </details>
 
-<!-- SUPPORT -->
-<details open>
-  <summary>❤️ Support</summary>
-  <p>
-    <a href="https://www.buymeacoffee.com/snakeeyesudo"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00?logo=buymeacoffee&logoColor=000" /></a>
-    <a href="https://ko-fi.com/snakeeyesudo"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-00e5ff?logo=kofi&logoColor=white" /></a>
+---
+
+<!-- GITHUB STATS (Two Cards Side by Side) -->
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c4dff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=radical&hide_border=true&background=0d1117&stroke=00e5ff&ring=7c4dff&fire=ff3d81&currStreakLabel=00e5ff" alt="GitHub Streak" width="48%" />
   </p>
 </details>
 
-<!-- WISDOM -->
-<details open>
-  <summary>🧠 Wisdom</summary>
-  <blockquote style="border:2px solid; border-image:linear-gradient(45deg,#00e5ff,#7c4dff,#ff3d81) 1; border-radius:12px; padding:12px; color:#cfeaff; background:linear-gradient(145deg, rgba(0,229,255,.06), rgba(124,77,255,.06));">
-    <strong>Code is poetry; neon is the vibe; automation is freedom.</strong>
-  </blockquote>
+---
+
+<!-- DEV QUOTE (Random Quote API) -->
+<details>
+  <summary><b>💬 Dev Quote</b></summary>
+
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  </p>
 </details>
 
-<!-- FOOTER with animated username line -->
+---
+
+<!-- TYPING ANIMATION (Latest activity or status) -->
+<details>
+  <summary><b>🔥 Current Focus</b></summary>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=600&lines=Building+resilient+cloud+platforms;Automating+security+%26+compliance;Mastering+SRE+%2B+DevSecOps;Exploring+eBPF+%26+runtime+security" alt="Typing SVG" />
+  </p>
+</details>
+
+---
+
+<!-- CONNECT SECTION -->
+<details>
+  <summary><b>🌐 Connect</b></summary>
+
+  <p align="center">
+    <a href="mailto:snakeeye.sudo@proton.me"><img alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+    <a href="https://t.me/snakeeyesudo"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://github.com/SnakeEye-sudo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+</details>
+
+---
+
+<!-- SUPPORT SECTION (Crypto, Buy me a Coffee, etc.) -->
+<details>
+  <summary><b>❤️ Support</b></summary>
+
+  <p align="center">
+    If you appreciate my work, consider supporting me:
+  </p>
+  <p align="center">
+    <a href="https://www.buymeacoffee.com/snakeeyesudo"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+    <a href="https://ko-fi.com/snakeeyesudo"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=white" /></a>
+  </p>
+  <p align="center">
+    <strong>Crypto (BTC):</strong> <code>bc1qxyz...example</code><br />
+    <strong>Crypto (ETH):</strong> <code>0x123...example</code>
+  </p>
+</details>
+
+---
+
+<!-- SNAKE ANIMATION (Profile contribution snake) -->
+<details open>
+  <summary><b>🐍 Contribution Snake</b></summary>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake.svg" />
+  </picture>
+</details>
+
+---
+
+<!-- FOOTER -->
 <p align="center">
-  <svg width="100%" height="64" viewBox="0 0 800 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer Glow">
-    <defs>
-      <linearGradient id="stripe" x1="0" x2="1">
-        <stop offset="0%" stop-color="#00e5ff"/>
-        <stop offset="50%" stop-color="#7c4dff"/>
-        <stop offset="100%" stop-color="#ff3d81"/>
-      </linearGradient>
-    </defs>
-    <rect x="0" y="30" width="800" height="4" fill="url(#stripe)">
-      <animate attributeName="x" values="-800;0;800" dur="6s" repeatCount="indefinite" />
-    </rect>
-  </svg>
-  <span style="font-weight:800; color:#e5f7ff; text-shadow:0 0 10px #00e5ff;">@SnakeEye-sudo</span>
-  • <span style="color:#cfeaff;">Made by <strong>SnakeEye-sudo</strong></span>
+  <sub>⚡ Powered by neon aesthetics & midnight code.</sub>
 </p>
