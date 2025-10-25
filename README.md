@@ -1,192 +1,208 @@
-<!-- ULTIMATE DARK PROFILE README FOR SnakeEye-sudo -->
+<!-- Dazzling Tech Geek README for SnakeEye-sudo -->
+<div align="center">
 
-<!-- HEADER: Neon tech banner with animated snake and glowing username -->
-<p align="center">
-  <svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SnakeEye-sudo Tech Banner">
+<!-- Gradient Neon Background Banner with Dynamic SVG Waves and Particles -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajshekhar26/rajshekhar26/master/techstack.gif">
+  <img alt="Neon Tech Banner" src="https://raw.githubusercontent.com/rajshekhar26/rajshekhar26/master/techstack.gif" style="border-radius:16px; box-shadow:0 0 24px rgba(0,238,255,.35), inset 0 0 24px rgba(124,77,255,.25); max-width:100%;"/>
+</picture>
+
+<!-- SVG Wave + Particles + Glow -->
+
+<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dynamic Wave">
+  <defs>
+    <linearGradient id="waveGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#7c4dff"/>
+      <stop offset="100%" stop-color="#ff3d81"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <path d="M0 120 C 200 80 400 160 600 120 C 800 80 1000 160 1200 120 L 1200 180 L 0 180 Z" fill="url(#waveGrad)" opacity="0.35">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 120 C 200 80 400 160 600 120 C 800 80 1000 160 1200 120 L 1200 180 L 0 180 Z; M0 110 C 220 140 420 60 620 110 C 820 160 980 60 1200 110 L 1200 180 L 0 180 Z; M0 120 C 200 80 400 160 600 120 C 800 80 1000 160 1200 120 L 1200 180 L 0 180 Z"/>
+  </path>
+  <!-- particles -->
+  <g filter="url(#glow)">
+    <circle cx="40" cy="30" r="2" fill="#00e5ff">
+      <animate attributeName="cy" dur="6s" values="30;20;30" repeatCount="indefinite"/>
+      <animate attributeName="cx" dur="8s" values="40;1180;40" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="50" r="2" fill="#7c4dff">
+      <animate attributeName="cy" dur="5s" values="50;40;50" repeatCount="indefinite"/>
+      <animate attributeName="cx" dur="7s" values="200;1000;200" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="35" r="2" fill="#ff3d81">
+      <animate attributeName="cy" dur="4s" values="35;25;35" repeatCount="indefinite"/>
+      <animate attributeName="cx" dur="9s" values="500;1100;500" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
+
+<!-- Neon Username with Glow -->
+
+<h1 align="center" style="font-weight:900; color:#e5f7ff; text-shadow:0 0 12px #00e5ff, 0 0 24px #7c4dff;">SnakeEye-sudo</h1>
+
+<!-- Animated Snake (keep existing snake) -->
+
+<p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake" style="max-width:100%;"/>
+</p>
+
+<!-- Extra SVG Icons: GitHub trending repo icon, dark planet, floating cloud -->
+
+<div>
+  <svg width="44" height="44" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Trending Repo">
+    <path d="M3 3h18v14H3z" stroke="#00e5ff" stroke-width="1.5"/>
+    <path d="M7 17l5-6 3 3 4-5" stroke="#7c4dff" stroke-width="1.5"/>
+    <path d="M3 21h18" stroke="#ff3d81" stroke-width="1.5"/>
+  </svg>
+  <svg width="44" height="44" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dark Planet">
     <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0b0e14"/>
-        <stop offset="50%" stop-color="#0f1420"/>
-        <stop offset="100%" stop-color="#0b0e14"/>
-      </linearGradient>
-      <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#00E5FF"/>
-        <stop offset="100%" stop-color="#7C4DFF"/>
-      </linearGradient>
-      <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-      <path id="snakePath" d="M20,150 C200,80 400,200 600,120 C800,40 1000,180 1180,100" fill="none"/>
+      <radialGradient id="g"><stop offset="0%" stop-color="#1e2a44"/><stop offset="100%" stop-color="#0b0f17"/></radialGradient>
+      <linearGradient id="ring" x1="0" x2="1"><stop offset="0%" stop-color="#00e5ff"/><stop offset="100%" stop-color="#7c4dff"/></linearGradient>
     </defs>
-    <rect width="1200" height="220" rx="14" fill="url(#bg)"/>
-    <g filter="url(#glow)">
-      <text x="50%" y="95" text-anchor="middle" fill="url(#neon)" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="44" letter-spacing="2">SnakeEye-sudo</text>
-      <text x="50%" y="135" text-anchor="middle" fill="#9aa4b2" font-family="'Inter', system-ui, sans-serif" font-size="16">Tech • Automation • Cloud • Open-Source • DevOps</text>
-    </g>
-    <!-- Animated snake -->
-    <g>
-      <use href="#snakePath" stroke="#1d263b" stroke-width="2"/>
-      <circle r="6" fill="#00E5FF">
-        <animateMotion dur="10s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-          <mpath href="#snakePath"/>
-        </animateMotion>
-      </circle>
-      <circle r="4" fill="#7C4DFF" opacity="0.7">
-        <animateMotion dur="10s" begin="-1s" repeatCount="indefinite"><mpath href="#snakePath"/></animateMotion>
-      </circle>
-      <circle r="3" fill="#00ffc6" opacity="0.5">
-        <animateMotion dur="10s" begin="-2s" repeatCount="indefinite"><mpath href="#snakePath"/></animateMotion>
-      </circle>
+    <circle cx="32" cy="32" r="16" fill="url(#g)"/>
+    <ellipse cx="32" cy="32" rx="26" ry="8" fill="none" stroke="url(#ring)" stroke-width="2"/>
+  </svg>
+  <svg width="64" height="32" viewBox="0 0 64 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cloud">
+    <g fill="#d1e9ff" opacity="0.85">
+      <circle cx="16" cy="18" r="10"/>
+      <circle cx="26" cy="12" r="12"/>
+      <circle cx="40" cy="18" r="10"/>
+      <rect x="16" y="18" width="24" height="10"/>
     </g>
   </svg>
-</p>
+</div>
 
-<!-- BADGE ROW: robust marketplace alternatives (no broken images) -->
-<p align="center">
-  <!-- Stars/Followers/Views via shields.io (robust, no API keys) -->
-  <img src="https://img.shields.io/github/followers/SnakeEye-sudo?label=Followers&logo=github&style=for-the-badge&color=0ea5e9&labelColor=0b0e14" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/SnakeEye-sudo?label=Stars&logo=github&style=for-the-badge&color=8b5cf6&labelColor=0b0e14" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=SnakeEye-sudo&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" alt="Profile views"/>
-  <!-- Marketplace-like badges (static) to avoid breakage -->
-  <img src="https://img.shields.io/badge/Theme-Ultimate%20Dark-111827?style=for-the-badge&logo=github&logoColor=white" alt="Theme: Ultimate Dark"/>
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-0f766e?style=for-the-badge&logo=markdown&logoColor=white" alt="Made with Markdown"/>
-</p>
+</div>
 
 ---
 
-## 📆 Events README
-- Auto-updated timeline of commits, releases, and activity appears below in Live Stats & Metrics and Wisdom sections. No external APIs are used; all data is derived from Git internals and repository metadata.
+<!-- Stylish Sections with subtle gradient borders/icons -->
 
-## 🧩 Readme Projects Display
-- Highlighted pinned repositories with clean badges.
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/SnakeEye-sudo?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20Projects-0b0e14?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0b0e14&color=1f2937" alt="Explore my projects"/></a>
-</p>
-
-## 🔁 readme-files-updater-for-release
-- This repo employs a GitHub Action to refresh sections (Wisdom/Stats/Stack) every 6 hours using only Git commands and local repository parsing.
-
----
-
-## 🚀 ABOUT ME
-- Tech tinkerer and automation-first developer.
-- Love DevOps, CI/CD, Cloud Infra, SRE, and Developer Experience.
-- Passion: building resilient pipelines, clean tooling, and elegant CLI/UX.
-
----
-
-## 📊 LIVE STATS & METRICS
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-$(commits)-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Repos-$(repos)-111827?style=for-the-badge&logo=github" alt="Repos"/>
-  <img src="https://img.shields.io/badge/Open%20Issues-$(issues)-111827?style=for-the-badge&logo=github" alt="Issues"/>
-  <img src="https://img.shields.io/badge/Pull%20Requests-$(prs)-111827?style=for-the-badge&logo=github" alt="PRs"/>
-</p>
-<details>
-<summary>How these update</summary>
-These placeholders are replaced by a scheduled Action scraping only local repo/user-owned data (no external API).
-</details>
-
----
-
-## 🏆 GITHUB TROPHIES
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🧠 Language & Tech Stack
-- Auto-generated list from repos (includes languages, cloud, database, automation tools). This section updates via Action.
+<!-- Events README -->
 
 <details open>
-<summary><b>Current Snapshot</b></summary>
+<summary><strong>⚡ Recent Events</strong></summary>
 
-<!-- START:TECH_STACK --><!-- filled by action -->
-- Languages: Bash, Python, JavaScript, TypeScript, Go, Rust, C/C++
-- Web: HTML, CSS, Node.js, React, Next.js, Express
-- DevOps: Git, GitHub Actions, Docker, Docker Compose, Kubernetes, Helm, Terraform
-- Cloud: AWS, GCP, Azure, Cloudflare
-- Databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite
-- Messaging/Streaming: Kafka, RabbitMQ
-- Observability: Prometheus, Grafana, OpenTelemetry
-- Security: Trivy, Snyk, Dependabot
-- CI/CD: Actions, ArgoCD, Jenkins
-- Testing: Jest, PyTest, Playwright
-- Automation: Make, Ansible
-<!-- END:TECH_STACK -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SnakeEye-sudo&theme=react-dark&bg_color=0b0f17&hide_border=false&radius=12&color=00e5ff&line=7c4dff&point=ff3d81" alt="Activity Graph" style="border-radius:12px; border:2px solid; border-image: linear-gradient(45deg,#00e5ff,#7c4dff,#ff3d81) 1;"/>
 
 </details>
 
----
+<!-- Readme Projects Display (trending alternative fallbacks) -->
 
-## 🤝 CONNECT WITH ME
-- LinkedIn: https://www.linkedin.com/in/sangam-k-799ba8373/
-- X (Twitter): https://x.com/SangamKrishna3
-- Instagram: https://www.instagram.com/sangam_krishnaa_/
-- Email: Krishna.sangam11@gmail.com
+<details open>
+<summary><strong>🚀 Featured Projects</strong></summary>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sangam-k-799ba8373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/SangamKrishna3"><img src="https://img.shields.io/badge/X%20(Twitter)-111827?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://www.instagram.com/sangam_krishnaa_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:Krishna.sangam11@gmail.com"><img src="https://img.shields.io/badge/Email-0b0e14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b0e14&color=111827" alt="Email"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SnakeEye-sudo&repo=SnakeEye-sudo&theme=radical&hide_border=false" style="border-radius:12px;"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SnakeEye-sudo&repo=awesome&theme=radical&hide_border=false" style="border-radius:12px;"/></a>
+
+</details>
+
+<!-- Releases Updater -->
+
+<details>
+<summary><strong>📦 Latest Releases</strong></summary>
+
+<img src="https://badges.pufler.dev/repos/SnakeEye-sudo?color=7c4dff" alt="Repos Count"/>
+<img src="https://badges.pufler.dev/years/SnakeEye-sudo?color=00e5ff" alt="Years"/>
+
+</details>
+
+<!-- About Me -->
+
+<details open>
+<summary><strong>👨‍💻 About Me</strong></summary>
+
+I build high-energy, neon-themed, automation-heavy projects. Love low-level tinkering, DevOps, and animated UI.
+
+</details>
+
+<!-- Stats + Streaks -->
+
+<details open>
+<summary><strong>📊 Stats</strong></summary>
+
+<p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0b0f17&title_color=00e5ff&icon_color=7c4dff&text_color=d1e9ff"/>
+<img height="165" src="https://streak-stats.demolab.com?user=SnakeEye-sudo&theme=tokyonight&hide_border=false&ring=7c4dff&fire=ff3d81&currStreakNum=00e5ff&sideNums=d1e9ff&background=0b0f17"/>
 </p>
 
+</details>
+
+<!-- Trophies -->
+
+<details>
+<summary><strong>🏆 Trophies</strong></summary>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=onestar&no-frame=false&margin-w=10&row=1&column=7"/>
+
+</details>
+
+<!-- Language / Tech Stack -->
+
+<details open>
+<summary><strong>🧠 Tech Stack</strong></summary>
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,md,js,ts,react,tailwind,vue,astro,nodejs,python,go,cpp,java,redis,postgresql,mongodb,docker,kubernetes,aws,gcp,azure,cloudflare,nginx,raspberrypi,arduino,bash&perline=10"/>
+
+</details>
+
+<!-- Connect Links -->
+
+<details>
+<summary><strong>🌐 Connect</strong></summary>
+
+<a href="mailto:snakeeye.sudo@proton.me"><img src="https://img.shields.io/badge/Email-ProtonMail-7c4dff?logo=protonmail&logoColor=white"/></a>
+<a href="https://t.me/snakeeyesudo"><img src="https://img.shields.io/badge/Telegram-00e5ff?logo=telegram&logoColor=white"/></a>
+<a href="https://x.com/snakeeyesudo"><img src="https://img.shields.io/badge/Twitter-X-ff3d81?logo=x&logoColor=white"/></a>
+
+</details>
+
+<!-- Support -->
+
+<details>
+<summary><strong>❤️ Support</strong></summary>
+
+<a href="https://www.buymeacoffee.com/snakeeyesudo"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00?logo=buymeacoffee&logoColor=000"/></a>
+<a href="https://ko-fi.com/snakeeyesudo"><img src="https://img.shields.io/badge/Ko--fi-00e5ff?logo=kofi&logoColor=white"/></a>
+
+</details>
+
+<!-- Wisdom block with gradient border -->
+
+<blockquote style="border:2px solid; border-image:linear-gradient(45deg,#00e5ff,#7c4dff,#ff3d81) 1; border-radius:12px; padding:12px; color:#cfeaff; background:linear-gradient(145deg,rgba(0,229,255,.06),rgba(124,77,255,.06));">
+  <strong>Wisdom:</strong> Code is poetry; neon is the vibe; automation is freedom.
+</blockquote>
+
+</div>
+
 ---
 
-## ☕ SUPPORT
-<a href="https://buymeacoffee.com/snakeeye"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=111827" alt="Buy me a coffee"/></a>
+<!-- Dazzling Footer with moving highlight -->
 
----
+<div align="center">
 
-## 🧩 WISDOM FOR THE DAY
-<p align="center">
-  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daily Wisdom">
-    <defs>
-      <linearGradient id="w" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#111827"/>
-        <stop offset="100%" stop-color="#0b0e14"/>
-      </linearGradient>
-      <linearGradient id="wtext" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#00E5FF"/>
-        <stop offset="100%" stop-color="#00FFC6"/>
-      </linearGradient>
-    </defs>
-    <rect width="1200" height="120" rx="8" fill="url(#w)"/>
-    <text id="wisdom-text" x="50%" y="65" text-anchor="middle" fill="url(#wtext)" font-family="'Inter', system-ui, sans-serif" font-size="20">{{WISDOM_OF_THE_DAY}}</text>
-  </svg>
+<svg width="100%" height="64" viewBox="0 0 800 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer Glow">
+  <defs>
+    <linearGradient id="stripe" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#7c4dff"/>
+      <stop offset="100%" stop-color="#ff3d81"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="30" width="800" height="4" fill="url(#stripe)">
+    <animate attributeName="x" values="-800;0;800" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+
+<p>
+  <span style="font-weight:800; color:#e5f7ff; text-shadow:0 0 10px #00e5ff;">@SnakeEye-sudo</span>
+  •
+  <span style="color:#cfeaff;">Made by <strong>SnakeEye-sudo</strong></span>
 </p>
 
-<p align="center">
-  <sub>Auto-refreshes every 6 hours via GitHub Actions without external APIs.</sub>
-</p>
-
----
-
-<!-- FOOTER: Minimal neon wave + 3 mini SVG accents -->
-<p align="center">
-  <svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer Wave">
-    <defs>
-      <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#7C4DFF"/>
-        <stop offset="50%" stop-color="#00E5FF"/>
-        <stop offset="100%" stop-color="#00FFC6"/>
-      </linearGradient>
-    </defs>
-    <path d="M0 40 Q 300 0 600 40 T 1200 40" stroke="url(#wave)" stroke-width="2" fill="none">
-      <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 40 Q 300 0 600 40 T 1200 40; M0 40 Q 300 70 600 40 T 1200 40; M0 40 Q 300 0 600 40 T 1200 40"/>
-    </path>
-    <g>
-      <circle cx="40" cy="40" r="3" fill="#7C4DFF"/>
-      <circle cx="70" cy="20" r="2" fill="#00E5FF"/>
-      <circle cx="100" cy="55" r="2" fill="#00FFC6"/>
-    </g>
-  </svg>
-  <br/>
-  <sub>© SnakeEye-sudo • Built with love for dark mode</sub>
-</p>
-
-<!-- MARKERS the Action will replace -->
-<!-- START:WISDOM -->Daily progress beats perfect plans.<!-- END:WISDOM -->
-<!-- START:STATS commits=0 repos=0 issues=0 prs=0 -->
-<!-- END:STATS -->
+</div>
