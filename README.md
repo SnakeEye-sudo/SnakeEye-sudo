@@ -122,3 +122,15 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-Auto%20Refresh%20Every%206%20Hours-00F5FF?style=for-the-badge)
 
 </div>
+
+
+## 🎬 Featured Projects
+
+### [🎥 YouTube Video Downloader](https://github.com/SnakeEye-sudo/youtube-video-downloader)
+**A modern web application to download YouTube videos in multiple quality formats with a beautiful, intuitive UI.**
+- 📱 Responsive Design - Works on desktop, tablet, and mobile
+- 🎬 Multiple Formats - 720p, 480p, 360p, MP3 and more
+- ⚡ Lightning Fast - Quick video processing
+- 🔒 Secure & Private - No data collection
+- 🌐 Live Demo: [https://snakeeye-sudo.github.io/youtube-video-downloader](https://snakeeye-sudo.github.io/youtube-video-downloader)
+- 📦 NPM Package: `npm install youtube-video-downloader`
