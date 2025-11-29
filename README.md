@@ -71,7 +71,8 @@
 
 <div align="center">
 
-## 🐍 **<span style="color: #00FF00;">Contribution Dynamics</span>** 📈
+## 🐍 **<span style="color: #00FF00;">127
+</span>** 📈
 
 ![Snake animation](https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake-dark.svg)
 
@@ -100,30 +101,7 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/snakeeye)
 
 </div>
-
 ---
-
-<div align="center">
-
-## 📊 **<span style="color: #00F5FF;">Profile Analytics</span>** 👁️
-
-![Profile Views](https://komarev.com/ghpvc/?username=SnakeEye-sudo&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,27,30&height=120&section=footer"/>
-
-**⚡ Built with passion by SnakeEye | Code never sleeps 🌙**
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-Auto%20Refresh%20Every%206%20Hours-00F5FF?style=for-the-badge)
-
-</div>
-
-
 ## 🎬 Featured Projects
 
 ### [🎥 YouTube Video Downloader](https://github.com/SnakeEye-sudo/youtube-video-downloader)
@@ -148,3 +126,27 @@
 | **firstcontributions** | Added to 5000+ contributor list | [#108055](https://github.com/firstcontributions/first-contributions/pull/108055) | ✅ Open |
 
 📊 **View all my contributions:** [Pull Requests](https://github.com/SnakeEye-sudo?tab=repositories)
+---
+
+<div align="center">
+
+## 📊 **<span style="color: #00F5FF;">Profile Analytics</span>** 👁️
+
+![Profile Views](https://komarev.com/ghpvc/?username=SnakeEye-sudo&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,27,30&height=120&section=footer"/>
+
+**⚡ Built with passion by SnakeEye | Code never sleeps 🌙**
+
+![Last Updated](https://img.shields.io/badge/Last%20Updated-Auto%20Refresh%20Every%206%20Hours-00F5FF?style=for-the-badge)
+
+</div>
+
+
+
