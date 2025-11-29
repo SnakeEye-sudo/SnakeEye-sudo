@@ -134,3 +134,17 @@
 - 🔒 Secure & Private - No data collection
 - 🌐 Live Demo: [https://snakeeye-sudo.github.io/youtube-video-downloader](https://snakeeye-sudo.github.io/youtube-video-downloader)
 - 📦 NPM Package: `npm install youtube-video-downloader`
+
+
+---
+
+## 🚀 Open Source Contributions
+
+> Contributing to the open source community and making real impact!
+
+| Project | Contribution | PR | Status |
+|---------|-------------|----|---------|
+| **hello.js** | Fixed Instagram logout issue | [#1](https://github.com/SnakeEye-sudo/hello.js/pull/1) | ✅ Open |
+| **firstcontributions** | Added to 5000+ contributor list | [#108055](https://github.com/firstcontributions/first-contributions/pull/108055) | ✅ Open |
+
+📊 **View all my contributions:** [Pull Requests](https://github.com/SnakeEye-sudo?tab=repositories)
