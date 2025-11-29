@@ -71,8 +71,7 @@
 
 <div align="center">
 
-## 🐍 **<span style="color: #00FF00;">127
-</span>** 📈
+## 🐍 **<span style="color: #00FF00;"> Contribution Dynamics </span>** 📈
 
 ![Snake animation](https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake-dark.svg)
 
@@ -101,19 +100,6 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/snakeeye)
 
 </div>
----
-## 🎬 Featured Projects
-
-### [🎥 YouTube Video Downloader](https://github.com/SnakeEye-sudo/youtube-video-downloader)
-**A modern web application to download YouTube videos in multiple quality formats with a beautiful, intuitive UI.**
-- 📱 Responsive Design - Works on desktop, tablet, and mobile
-- 🎬 Multiple Formats - 720p, 480p, 360p, MP3 and more
-- ⚡ Lightning Fast - Quick video processing
-- 🔒 Secure & Private - No data collection
-- 🌐 Live Demo: [https://snakeeye-sudo.github.io/youtube-video-downloader](https://snakeeye-sudo.github.io/youtube-video-downloader)
-- 📦 NPM Package: `npm install youtube-video-downloader`
-
-
 ---
 
 ## 🚀 Open Source Contributions
