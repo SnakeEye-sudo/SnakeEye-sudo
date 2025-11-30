@@ -101,6 +101,113 @@
 
 </div>
 ---
+## 📋 TECHNICAL SKILLS EXPANDED
+
+### Programming Languages
+`Python` • `C` • `C++` • `Java` • `JavaScript` • `TypeScript` • `Swift` • `Go` • `Kotlin` • `Ruby` • `PHP` • `R` • `MATLAB` • `Rust` • `Haskell`
+
+### Web & Frontend Technologies
+`HTML5` • `CSS3` • `React` • `React Native` • `Angular` • `Vue.js` • `Next.js` • `Tailwind CSS` • `Bootstrap` • `SASS/SCSS`
+
+### Backend & Frameworks
+`Node.js` • `Express.js` • `Django` • `Flask` • `FastAPI` • `Spring Boot`
+
+### AI/ML/Deep Learning
+`TensorFlow` • `PyTorch` • `Keras` • `Scikit-Learn` • `OpenCV` • `Transformers (HuggingFace)` • `NLP Models` • `LLM Fine-Tuning` • `Prompt Engineering`
+
+### Cloud & DevOps
+`AWS (Lambda, S3, EC2, RDS)` • `Azure (DevOps, AI Studio)` • `GCP (Firestore, Cloud Functions)` • `Docker` • `Kubernetes` • `CI/CD Pipelines` • `Terraform`
+
+### Databases
+`MySQL` • `PostgreSQL` • `MongoDB` • `Firebase` • `Redis` • `DynamoDB` • `Neo4j`
+
+### Cybersecurity
+`Ethical Hacking` • `Kali Linux` • `Metasploit` • `Burp Suite` • `Penetration Testing` • `OWASP Top 10`
+
+---
+
+## 🐟 ACHIEVEMENTS & LEADERSHIP
+
+### Technical Excellence
+- 🏆 **NRC Robotics Competition**: 1st Prize - Distributed Quantum Circuit Design
+- 🏆 **IoT Innovation Award**: Advanced Home Automation Prototype
+- 🏆 **120+ iOS ML Bugs Resolved**: Quality leadership at Apple
+- 🏆 **3% ML Processing Improvement**: X.com Moderation Engine optimization
+
+### Corporate Impact & Recognition
+- 🎆 **Azure Productivity Top Performer**: Microsoft excellence recognition
+- 🎆 **Best Data Innovator**: Accor Plus internal award
+- 🎆 **₹50L+ Annual Revenue Impact**: CRM automation & predictive upsell system
+- 🎆 **22% iOS Stability Boost**: Significant reliability improvement metrics
+
+### Community Leadership & Social Impact
+- 👥 **50+ Social Projects Delivered**: Direct technology for community development
+- 👥 **10,000+ Beneficiaries Impacted**: Tech-for-good initiatives
+- 👥 **Rotary Club Bettiah Town**: Public Service Chairperson (ongoing)
+- 👥 **20+ Technical Seminars**: AI, Robotics, Cybersecurity workshops
+
+### Innovation & Entrepreneurship
+- 💡 **50+ Freelance Tech Projects**: Android, Web, IoT, Automation, Security
+- 💡 **College ERP System**: Full-stack attendance & fee management
+- 💡 **AI-driven Churn Prediction Model**: Deployed at scale
+- 💡 **Open Source Contributions**: WebGL, FunASR, Hello.js
+
+---
+
+## 🚀 FREELANCING & ENTREPRENEURIAL PROJECTS (2013–2024)
+
+### Project Portfolio Summary
+
+| Category | Projects | Highlights |
+|----------|----------|------------|
+| **Android Apps** | 12+ | Campus management, hostel utilities, e-commerce |
+| **Web Development** | 20+ | Portfolio sites, e-commerce, CRM dashboards |
+| **Automation Tools** | 6+ | Python scripts, workflow automation |
+| **IoT/Hardware** | 3+ | Smart home prototypes, sensor dashboards |
+| **Dashboards & Analytics** | 8+ | Real-time BI, AppScript, Power BI reports |
+| **Security & Audits** | 4+ | Penetration testing, OWASP assessments |
+| **Total Impact** | **50+ Projects** | ₹10L+ revenue, 100+ satisfied clients |
+
+### Top Highlighted Projects
+
+**1. Campus & Hostel Management System (Android)**
+- Full-featured Android app with Firebase backend
+- Attendance tracking, leave management, room allocation
+- 500+ daily active users
+
+**2. E-Commerce Platform Ecosystem**
+- Multi-vendor platform for 15+ small retailers
+- Payment integration (Razorpay), inventory management
+- ₹2L+ annual GMV facilitated
+
+**3. College ERP Mini-System**
+- Automated attendance tracking and fee management
+- Real-time analytics dashboards
+- Deployed at 2 institutions
+
+**4. IoT Home Automation Prototype**
+- Voice-controlled smart home system
+- Temperature, lighting, security monitoring
+- Published in Tech Innovation Showcase
+
+**5. AI-Driven Sales Dashboard**
+- Real-time lead scoring and forecasting
+- Integrated with CRM APIs
+- 40% improvement in sales cycle
+
+### Entrepreneurial Ventures
+
+**BuildTech Solutions (2015–2017)**
+- Co-founded freelance tech studio
+- 40+ projects, ₹8L+ revenue
+- Team of 3 developers
+
+**Open Source & Community (2024–Present)**
+- WebGL black hole rendering optimization
+- FunASR real-time speech recognition documentation
+- Hello.js social auth fixes
+- Contributing to 5000+ open source community
+
 
 ## 🚀 Open Source Contributions
 
