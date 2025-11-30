@@ -32,77 +32,6 @@
 <div align="center">
 
 ## 💻 **<span style="color: #FF00FF;">Tech Arsenal & Skills</span>** 🚀
-
-### **Languages I Speak**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117&labelColor=0D1117)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
-
-### **Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0D1117&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117)
-
-### **Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0D1117&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 **<span style="color: #00FF00;"> Contribution Dynamics </span>** 📈
-
-![Snake animation](https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 **<span style="color: #00F5FF;">Connect With Me</span>** 💬
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangamkrishna/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sangam_krishnaa_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Krishna.sangam11@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## ☕ **<span style="color: #FFD700;">Support My Work</span>** 💛
-
-### *"Fuel the code, power the innovation! Every coffee keeps the bugs away and creativity flowing."* ☕✨
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/snakeeye)
-
-</div>
----
-## 💻 Tech Arsenal Extended
-
 ### Core Languages
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -161,14 +90,6 @@
 | 📱 Apple Quality | 120+ iOS ML Bugs Resolved | 22% Stability Boost |
 | ⚡ X.com Performance | 3% ML Processing Optimization | Moderation Enhanced |
 
-#### 💼 Corporate & Revenue Impact
-
-| Achievement | Company | Result | Value |
-|-------------|---------|--------|-------|
-| 🔷 Azure Top Performer | Microsoft | Excellence Recognition | Top 3% |
-| 📊 Data Innovator | Accor Plus | Best Innovator Award | Recognized |
-| 💰 Revenue Impact | Enterprise Systems | CRM + Upsell Automation | ₹50L+ Annual |
-| 🎯 ML Specialist | X.com | Content Moderation | 3% Gain |
 
 #### 🌟 Community Leadership & Social Impact
 
@@ -264,13 +185,42 @@
 
 <div align="center">
 
+
+## 🐍 **<span style="color: #00FF00;"> Contribution Dynamics </span>** 📈
+
+![Snake animation](https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 **<span style="color: #00F5FF;">Connect With Me</span>** 💬
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangamkrishna/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sangam_krishnaa_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Krishna.sangam11@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## ☕ **<span style="color: #FFD700;">Support My Work</span>** 💛
+
+### *"Fuel the code, power the innovation! Every coffee keeps the bugs away and creativity flowing."* ☕✨
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/snakeeye)
+
+</div>
+
 ## 📊 **<span style="color: #00F5FF;">Profile Analytics</span>** 👁️
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SnakeEye-sudo&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
----
 
 <div align="center">
 
