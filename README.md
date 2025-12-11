@@ -15,9 +15,9 @@
 <div align="center">
 
 <!-- Auto-updating GitHub Stats Cards with Ultra-Vibrant Neon Theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=00F5FF&border_radius=10&ring_color=00F5FF&fire_color=FF00FF&cache_seconds=21600"/>
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=FFFFFF&border_radius=10&cache_seconds=21600"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=00F5FF&border_radius=10&cache_seconds=21600"/>
+
 
 </div>
 
