@@ -216,90 +216,6 @@
 
 </div>
 
-## 📊 **<span style="color: #00F5FF;">Profile Analytics</span>** 👁️
-
-![Profile Views](https://komarev.com/ghpvc/?username=SnakeEye-sudo&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,27,30&height=120&section=footer"/>
-
-**⚡ Built with passion by SnakeEye | Code never sleeps 🌙**
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-Auto%20Refresh%20Every%206%20Hours-00F5FF?style=for-the-badge)
-
-</div>
-
----
-
-## 📊 GitHub Statistics & Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&icon_color=79c0ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=tokyonight&hide_border=true&background=1a1b27" />
-</div>
-
----
-
-## 🏆 Achievements & Contributions
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Code%20Contributions-500+-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Projects-15+-green?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Community%20Answers-50+-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-</div>
-
----
-
-## 🎯 Key Projects Highlight
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h4>🤖 CodeFlow AI Reviewer</h4>
-      <p>AI-powered GitHub PR code review bot with GPT-4 integration</p>
-      <img src="https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python" />
-      <img src="https://img.shields.io/badge/Flask-2.3-green?style=flat-square&logo=flask" />
-      <img src="https://img.shields.io/badge/OpenAI-GPT4-orange?style=flat-square&logo=openai" />
-    </td>
-    <td align="center" width="50%">
-      <h4>📊 Data Intelligence Dashboard</h4>
-      <p>3D AI-powered data visualization & analytics platform</p>
-      <img src="https://img.shields.io/badge/React-18+-blue?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/Three.js-3D-purple?style=flat-square&logo=threedotjs" />
-      <img src="https://img.shields.io/badge/AI-ML-red?style=flat-square&logo=tensorflow" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 💼 Skills Matrix
-
-<div align="center">
-
-### Languages & Tools
-
-| Category | Skills |
-|----------|--------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) |
-
-</div>
-
----
-
 ## 🚀 Quick Links & Resources
 
 <div align="center">
@@ -312,14 +228,6 @@
   <a href="https://github.com/SnakeEye-sudo?tab=followers">
     <img src="https://img.shields.io/badge/Follow_Me-Followers-brightgreen?style=for-the-badge&logo=github" />
   </a>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SnakeEye-sudo&theme=react-dark&hide_border=true&area=true" width="90%" />
 </div>
 
 ---
@@ -348,6 +256,28 @@
   <img src="https://img.shields.io/badge/Open_To-Opportunities-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Remote_Ready-Yes-success?style=for-the-badge" />
 </div>
+
+
+## 📊 **<span style="color: #00F5FF;">Profile Analytics</span>** 👁️
+
+![Profile Views](https://komarev.com/ghpvc/?username=SnakeEye-sudo&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,27,30&height=120&section=footer"/>
+
+**⚡ Built with passion by SnakeEye | Code never sleeps 🌙**
+
+![Last Updated](https://img.shields.io/badge/Last%20Updated-Auto%20Refresh%20Every%206%20Hours-00F5FF?style=for-the-badge)
+
+</div>
+
+---
+
+
+
 
 
 
