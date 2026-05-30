@@ -212,6 +212,7 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [project-requests](https://github.com/SnakeEye-sudo/project-requests) | Open a project request issue — tell me what you'd lke me to build for you. | `—` |
 | [Chrono-DB](https://github.com/SnakeEye-sudo/Chrono-DB) | A distributed temporal database allowing queries of any historical state with millisecond precision using CRDTs for multi-master replication and Raft consensus for strong consistency | `Go` |
 | [NeuralForge](https://github.com/SnakeEye-sudo/NeuralForge) | An autonomous ML framework using meta-learning and genetic algorithms to evolve neural architectures in real-time with automatic feature engineering and zero-downtime deployments | `Haskell` |
 | [QuantumMesh](https://github.com/SnakeEye-sudo/QuantumMesh) | A revolutionary distributed quantum circuit simulator leveraging GPU acceleration and fault-tolerant algorithms to simulate 40+ qubit circuits with real-time visualization | `Rust` |
