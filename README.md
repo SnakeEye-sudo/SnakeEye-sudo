@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sangam%20Krishna&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20App%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Er.%20Sangam%20Krishna&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20App%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Web+App+Developer+%26+Data+Analyst;Building+offline-first+web+apps;Turning+data+into+clear+insights;Open+to+full-time+roles+%26+freelance" alt="Typing SVG" /></a>
 
@@ -11,6 +11,8 @@
 </p>
 <p>
 <a href="https://www.linkedin.com/in/sangam-k-799ba8373"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://buymeacoffee.com/snakeeye"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+<a href="https://github.com/SnakeEye-sudo/project-requests/issues/new?template=project-request.md"><img src="https://img.shields.io/badge/📩_Request_a_Project-2F81F7?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:krishna.sangam11rsm@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://orcid.org/0009-0006-9660-6059"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
@@ -27,7 +29,22 @@
 - 📊 I turn raw data into **clear dashboards and insights** as a Data Analyst.
 - 🧰 Comfortable across the stack: **JavaScript, TypeScript, React, Python**.
 - 🤝 **Open to full-time roles and freelance projects** — remote, worldwide.
-- 📍 Based in **Bettiah, Bihar, India**.
+- 📍 Based in **India** 🇮🇳
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+
+</div>
 
 ---
 
@@ -205,20 +222,7 @@ _This section updates automatically whenever I create or update a public reposit
 
 <!-- PROJECTS:END -->
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SnakeEye-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeEye-sudo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=SnakeEye-sudo&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-
-</div>
-
----
 
 <div align="center">
 
