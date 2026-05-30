@@ -1,0 +1,94 @@
+name: Update README with Latest Projects
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # allows manual run from the Actions tab
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate latest projects section
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          node <<"EOF"
+          const fs = require("fs");
+          const user = process.env.GH_USER;
+          const token = process.env.GH_TOKEN;
+          async function main() {
+            const res = await fetch(`https://api.github.com/users/${user}/repos?per_page=100&sort=updated`, {
+              headers: { Authorization: `Bearer ${token}`, "User-Agent": "readme-updater" }
+            });
+            const repos = await res.json();
+
+            // Only public, non-fork repos; skip the profile repo and daily auto-projects
+            const visible = repos.filter(r =>
+              !r.private && !r.fork &&
+              r.name !== user &&
+              !r.name.startsWith("daily-project-")
+            );
+
+            const cat = { web: [], ts: [], data: [], python: [], other: [] };
+            for (const r of visible) {
+              const lang = (r.language || "").toLowerCase();
+              const topics = (r.topics || []).map(t => t.toLowerCase());
+              const desc = (r.description || "").toLowerCase();
+              const row = `| [${r.name}](${r.html_url}) | ${r.description || "—"} | \`${r.language || "—"}\` |`;
+              if (lang === "python" || (topics.includes("data") || desc.includes("data analy") || desc.includes("dashboard"))) {
+                (lang === "python" ? cat.python : cat.data).push(row);
+              } else if (topics.includes("pwa") || lang === "html" || lang === "javascript") {
+                cat.web.push(row);
+              } else if (lang === "typescript") {
+                cat.ts.push(row);
+              } else {
+                cat.other.push(row);
+              }
+            }
+
+            function section(title, rows) {
+              if (!rows.length) return "";
+              return `\n### ${title}\n\n| Project | Description | Tech |\n| :--- | :--- | :--- |\n${rows.join("\n")}\n`;
+            }
+
+            let block = "";
+            block += section("🌐 Web Apps & PWAs", cat.web);
+            block += section("🟦 TypeScript Apps", cat.ts);
+            block += section("📊 Data Analyst & Data Apps", cat.data);
+            block += section("🐍 Python", cat.python);
+            block += section("📦 Other Projects", cat.other);
+
+            const START = "<!-- PROJECTS:START -->";
+            const END = "<!-- PROJECTS:END -->";
+            let readme = fs.readFileSync("README.md", "utf8");
+            const re = new RegExp(`${START}[\\s\\S]*${END}`);
+            const replacement = `${START}\n${block}\n${END}`;
+            if (re.test(readme)) {
+              readme = readme.replace(re, replacement);
+              fs.writeFileSync("README.md", readme);
+              console.log("README projects section updated.");
+            } else {
+              console.log("Markers not found; nothing updated.");
+            }
+          }
+          main();
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: auto-update latest projects in README"
+          git push
+
