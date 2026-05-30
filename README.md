@@ -108,6 +108,15 @@ Projects I have forked to study, learn from, and contribute to:
 
 ---
 
+---
+
+## 🔄 Latest Public Projects
+
+_This section updates automatically whenever I create or update a public repository._
+
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
+
 ## 📈 GitHub Stats
 
 <div align="center">
