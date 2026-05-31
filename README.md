@@ -154,8 +154,8 @@ _This section updates automatically whenever I create or update a public reposit
 | [awesome-profile-readme-templates](https://github.com/SnakeEye-sudo/awesome-profile-readme-templates) | 🚀 A curated collection of 10 stunning GitHub Profile README templates, tools, generators, and resources to make your profile stand out! | `JavaScript` |
 | [fun-mini-games-pack](https://github.com/SnakeEye-sudo/fun-mini-games-pack) | 🎮 Ultimate Fun Mini Games Pack - Multiple engaging games including Snake, Tetris, Flappy Bird & more! No API needed, pure JavaScript fun. Created by Er. Sangam Krishna | `HTML` |
 | [youtube-video-downloader](https://github.com/SnakeEye-sudo/youtube-video-downloader) | A modern web application to download YouTube videos in multiple quality formats with a beautiful UI and fast processing | `JavaScript` |
-| [audio-spectrum-3d](https://github.com/SnakeEye-sudo/audio-spectrum-3d) | 🎵 An immersive 3D audio spectrum visualizer built with Three.js, featuring real-time WebAudio API integration, particle effects, and interactive controls. Upload any audio file or use microphone input to visualize sound in stunning 3D.. | `HTML` |
 | [particle-galaxy-3d](https://github.com/SnakeEye-sudo/particle-galaxy-3d) | 🌌 An interactive 3D particle galaxy with real-time physics simulation, mouse controls, and stunning visual effects. Explore a universe of particles with gravity, orbital mechanics, and collision detection. Built with Three.js WebGL for maximum performance. | `HTML` |
+| [audio-spectrum-3d](https://github.com/SnakeEye-sudo/audio-spectrum-3d) | 🎵 An immersive 3D audio spectrum visualizer built with Three.js, featuring real-time WebAudio API integration, particle effects, and interactive controls. Upload any audio file or use microphone input to visualize sound in stunning 3D.. | `HTML` |
 | [snakeeye-orbits-3d](https://github.com/SnakeEye-sudo/snakeeye-orbits-3d) | A stunning 3D interactive portfolio showcasing orbiting GitHub projects around a glowing SnakeEye core. Built with Three.js, featuring real-time cursor tracking and smooth animations. | `JavaScript` |
 | [Habits-Tracker](https://github.com/SnakeEye-sudo/Habits-Tracker) | An offline-first productivity and habit tracking app built with vanilla JavaScript. | `JavaScript` |
 | [movie-recommender](https://github.com/SnakeEye-sudo/movie-recommender) | AI-powered movie recommendation engine built with vanilla JavaScript. Get personalized movie suggestions based on your preferences! | `JavaScript` |
@@ -182,7 +182,6 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [onePointOne](https://github.com/SnakeEye-sudo/onePointOne) | 1Point1 | `TypeScript` |
 | [Sanatan-Vedic-Jyotish](https://github.com/SnakeEye-sudo/Sanatan-Vedic-Jyotish) | A comprehensive, offline-capable Vedic Astrology application offering Kundali generation, Gun Milan (Matchmaking), and Numerology with a spiritual Sanatan UI. | `TypeScript` |
 | [harihar-ai](https://github.com/SnakeEye-sudo/harihar-ai) | HariHar (हरिहर) – BharatGen Param-1 powered multilingual Indian AI Assistant (Hindi, English, Indic languages) | `TypeScript` |
 
