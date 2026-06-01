@@ -137,11 +137,11 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [Antariksh-Sathi](https://github.com/SnakeEye-sudo/Antariksh-Sathi) | Offline-first space companion for sky events, ISRO watch, and stargazing curiosity. | `JavaScript` |
+| [pariksha-sathi](https://github.com/SnakeEye-sudo/pariksha-sathi) | Study planner for competitive exams with syllabus-aware planning, streaks, and cloud-ready family flow. | `JavaScript` |
 | [Dhan-Sathi](https://github.com/SnakeEye-sudo/Dhan-Sathi) | Dhan Sathi — Smart personal finance app with Google Sign-In, Drive sync, Artha AI, tax tools & CA-ready reports | `TypeScript` |
 | [Narayani-Waterpark](https://github.com/SnakeEye-sudo/Narayani-Waterpark) | — | `HTML` |
-| [pariksha-sathi](https://github.com/SnakeEye-sudo/pariksha-sathi) | Study planner for competitive exams with syllabus-aware planning, streaks, and cloud-ready family flow. | `JavaScript` |
 | [Bettiah-Business-Directory](https://github.com/SnakeEye-sudo/Bettiah-Business-Directory) | A crowd-sourced directory & review platform for local businesses in Bettiah with OpenStreetMap integration, reviews, and listing submission capabilities. All data stored locally/statically. | `HTML` |
-| [Antariksh-Sathi](https://github.com/SnakeEye-sudo/Antariksh-Sathi) | Offline-first space companion for sky events, ISRO watch, and stargazing curiosity. | `JavaScript` |
 | [rozgar-sathi](https://github.com/SnakeEye-sudo/rozgar-sathi) | Government jobs portal with job discovery, resume flow, and application tracking for the Sathi family. | `TypeScript` |
 | [Samachar-Sathi](https://github.com/SnakeEye-sudo/Samachar-Sathi) | Current affairs and analysis app with daily intelligence flow and local-first reading tools. | `TypeScript` |
 | [Bettiah-Maps](https://github.com/SnakeEye-sudo/Bettiah-Maps) | A dedicated Google Maps-based web application focusing on Bettiah, Bihar. Leverages Google Maps JavaScript API for location services, navigation, and local overlays. | `JavaScript` |
@@ -154,8 +154,8 @@ _This section updates automatically whenever I create or update a public reposit
 | [awesome-profile-readme-templates](https://github.com/SnakeEye-sudo/awesome-profile-readme-templates) | 🚀 A curated collection of 10 stunning GitHub Profile README templates, tools, generators, and resources to make your profile stand out! | `JavaScript` |
 | [fun-mini-games-pack](https://github.com/SnakeEye-sudo/fun-mini-games-pack) | 🎮 Ultimate Fun Mini Games Pack - Multiple engaging games including Snake, Tetris, Flappy Bird & more! No API needed, pure JavaScript fun. Created by Er. Sangam Krishna | `HTML` |
 | [youtube-video-downloader](https://github.com/SnakeEye-sudo/youtube-video-downloader) | A modern web application to download YouTube videos in multiple quality formats with a beautiful UI and fast processing | `JavaScript` |
-| [particle-galaxy-3d](https://github.com/SnakeEye-sudo/particle-galaxy-3d) | 🌌 An interactive 3D particle galaxy with real-time physics simulation, mouse controls, and stunning visual effects. Explore a universe of particles with gravity, orbital mechanics, and collision detection. Built with Three.js WebGL for maximum performance. | `HTML` |
 | [audio-spectrum-3d](https://github.com/SnakeEye-sudo/audio-spectrum-3d) | 🎵 An immersive 3D audio spectrum visualizer built with Three.js, featuring real-time WebAudio API integration, particle effects, and interactive controls. Upload any audio file or use microphone input to visualize sound in stunning 3D.. | `HTML` |
+| [particle-galaxy-3d](https://github.com/SnakeEye-sudo/particle-galaxy-3d) | 🌌 An interactive 3D particle galaxy with real-time physics simulation, mouse controls, and stunning visual effects. Explore a universe of particles with gravity, orbital mechanics, and collision detection. Built with Three.js WebGL for maximum performance. | `HTML` |
 | [snakeeye-orbits-3d](https://github.com/SnakeEye-sudo/snakeeye-orbits-3d) | A stunning 3D interactive portfolio showcasing orbiting GitHub projects around a glowing SnakeEye core. Built with Three.js, featuring real-time cursor tracking and smooth animations. | `JavaScript` |
 | [Habits-Tracker](https://github.com/SnakeEye-sudo/Habits-Tracker) | An offline-first productivity and habit tracking app built with vanilla JavaScript. | `JavaScript` |
 | [movie-recommender](https://github.com/SnakeEye-sudo/movie-recommender) | AI-powered movie recommendation engine built with vanilla JavaScript. Get personalized movie suggestions based on your preferences! | `JavaScript` |
@@ -200,6 +200,8 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [businesspulse-analytics-dashboard](https://github.com/SnakeEye-sudo/businesspulse-analytics-dashboard) | Advanced data analyst dashboard using Streamlit, Plotly, Python, forecasting, cohort retention, and anomaly detection. | `Python` |
+| [data-analyst-salary-analysis](https://github.com/SnakeEye-sudo/data-analyst-salary-analysis) | 📊 Exploratory Data Analysis of global Data Analyst / Data Science salaries — pandas, data cleaning, insights & visualizations. A practical, portfolio-ready DA project. | `Python` |
 | [OpenJarvis](https://github.com/SnakeEye-sudo/OpenJarvis) | Personal AI Voice Assistant with voice command recognition, TTS, AI chatbot, automation, and scheduler capabilities | `Python` |
 | [SnakeMediaPlayer](https://github.com/SnakeEye-sudo/SnakeMediaPlayer) | A Python-based media player with SnakeEye theme. Open-source starter project for learning and contributing. | `Python` |
 | [SynesthesiaComposer](https://github.com/SnakeEye-sudo/SynesthesiaComposer) | A Streamlit app that transforms sensory input into musical compositions using synesthesia principles | `Python` |
