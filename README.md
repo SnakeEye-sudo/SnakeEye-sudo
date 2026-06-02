@@ -239,3 +239,19 @@ I am open to **full-time roles** and **freelance projects** in **Web App Develop
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 
 </div>
+
+
+---
+
+## 🤝 Featured Collaboration — Order Management System
+
+A full-stack project built together with **[Rimjhim Krishna (@rimjhimkrishna)](https://github.com/rimjhimkrishna)**.
+
+| 👤 Role | 🧑‍💻 Owner | 🧰 Scope |
+| --- | --- | --- |
+| 🎨 **Frontend** | **Sangam Krishna (me)** | React + Vite + Tailwind storefront & admin dashboard, deployed on Vercel |
+| 🛠️ **Backend** | **Rimjhim Krishna ([@rimjhimkrishna](https://github.com/rimjhimkrishna))** | Spring Boot REST API, JWT security, PostgreSQL & Apache Kafka |
+
+🔗 **Frontend repo:** [order-management-frontend](https://github.com/SnakeEye-sudo/order-management-frontend)  
+🔗 **Backend repo:** [order-management-api](https://github.com/rimjhimkrishna/order-management-api)  
+🚀 **Live storefront:** https://order-management-frontend-kohl.vercel.app
