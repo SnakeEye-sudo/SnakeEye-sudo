@@ -137,8 +137,8 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [Antariksh-Sathi](https://github.com/SnakeEye-sudo/Antariksh-Sathi) | Offline-first space companion for sky events, ISRO watch, and stargazing curiosity. | `JavaScript` |
 | [pariksha-sathi](https://github.com/SnakeEye-sudo/pariksha-sathi) | Study planner for competitive exams with syllabus-aware planning, streaks, and cloud-ready family flow. | `JavaScript` |
+| [Antariksh-Sathi](https://github.com/SnakeEye-sudo/Antariksh-Sathi) | Offline-first space companion for sky events, ISRO watch, and stargazing curiosity. | `JavaScript` |
 | [Dhan-Sathi](https://github.com/SnakeEye-sudo/Dhan-Sathi) | Dhan Sathi — Smart personal finance app with Google Sign-In, Drive sync, Artha AI, tax tools & CA-ready reports | `TypeScript` |
 | [Narayani-Waterpark](https://github.com/SnakeEye-sudo/Narayani-Waterpark) | — | `HTML` |
 | [Bettiah-Business-Directory](https://github.com/SnakeEye-sudo/Bettiah-Business-Directory) | A crowd-sourced directory & review platform for local businesses in Bettiah with OpenStreetMap integration, reviews, and listing submission capabilities. All data stored locally/statically. | `HTML` |
