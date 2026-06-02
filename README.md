@@ -189,6 +189,7 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [order-management-frontend](https://github.com/SnakeEye-sudo/order-management-frontend) | 🛍️ OrderHub — a modern React + Vite + Tailwind storefront and admin dashboard for the Order Management System API. | `JavaScript` |
 | [Offline-Vedic-Panchang](https://github.com/SnakeEye-sudo/Offline-Vedic-Panchang) | Pure JavaScript offline Vedic Panchang and astrology dashboard. Local calendar, sundata, tithi, rashi—computed in JS only, no API. | `JavaScript` |
 | [DataIntel-3D](https://github.com/SnakeEye-sudo/DataIntel-3D) | 🚀 AI-Powered 3D Data Intelligence Dashboard | Real-time visualization, ML predictions, anomaly detection, and interactive insights for time-series data. Built with Three.js, TensorFlow.js, and Node.js | `—` |
 | [habit-tracker-ai](https://github.com/SnakeEye-sudo/habit-tracker-ai) | AI-Powered Task & Habit Tracker with Analytics Dashboard - Full-stack application with React frontend, Node.js backend, and Python AI service for habit predictions and insights. | `—` |
