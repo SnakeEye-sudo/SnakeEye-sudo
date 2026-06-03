@@ -137,8 +137,8 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [pariksha-sathi](https://github.com/SnakeEye-sudo/pariksha-sathi) | Study planner for competitive exams with syllabus-aware planning, streaks, and cloud-ready family flow. | `JavaScript` |
 | [Antariksh-Sathi](https://github.com/SnakeEye-sudo/Antariksh-Sathi) | Offline-first space companion for sky events, ISRO watch, and stargazing curiosity. | `JavaScript` |
+| [pariksha-sathi](https://github.com/SnakeEye-sudo/pariksha-sathi) | Study planner for competitive exams with syllabus-aware planning, streaks, and cloud-ready family flow. | `JavaScript` |
 | [Dhan-Sathi](https://github.com/SnakeEye-sudo/Dhan-Sathi) | Dhan Sathi — Smart personal finance app with Google Sign-In, Drive sync, Artha AI, tax tools & CA-ready reports | `TypeScript` |
 | [Narayani-Waterpark](https://github.com/SnakeEye-sudo/Narayani-Waterpark) | — | `HTML` |
 | [Bettiah-Business-Directory](https://github.com/SnakeEye-sudo/Bettiah-Business-Directory) | A crowd-sourced directory & review platform for local businesses in Bettiah with OpenStreetMap integration, reviews, and listing submission capabilities. All data stored locally/statically. | `HTML` |
@@ -182,6 +182,7 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [VaakSetu](https://github.com/SnakeEye-sudo/VaakSetu) | Open-source browser-based Brain-Computer Interface for paralyzed patients — P300 + SSVEP + TensorFlow.js | `TypeScript` |
 | [Sanatan-Vedic-Jyotish](https://github.com/SnakeEye-sudo/Sanatan-Vedic-Jyotish) | A comprehensive, offline-capable Vedic Astrology application offering Kundali generation, Gun Milan (Matchmaking), and Numerology with a spiritual Sanatan UI. | `TypeScript` |
 | [harihar-ai](https://github.com/SnakeEye-sudo/harihar-ai) | HariHar (हरिहर) – BharatGen Param-1 powered multilingual Indian AI Assistant (Hindi, English, Indic languages) | `TypeScript` |
 
