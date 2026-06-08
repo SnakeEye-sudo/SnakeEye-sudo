@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Er.%20Sangam%20Krishna&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20App%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Er.%20Sangam%20Krishna&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Android%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descSize=20" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Web+App+Developer+%26+Data+Analyst;Building+offline-first+web+apps;Turning+data+into+clear+insights;Open+to+full-time+roles+%26+freelance" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Web+App+Developer+%26+Data+Analyst;Android+App+Developer+%F0%9F%93%B1;Building+offline-first+web+%26+mobile+apps;Turning+data+into+clear+insights;Open+to+full-time+roles+%26+freelance" alt="Typing SVG" /></a>
 
 <p>
 <img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge&logo=githubsponsors&logoColor=white" />
@@ -26,8 +26,9 @@
 ## 👨‍💻 About Me
 
 - 🌐 I build **offline-first web apps** and **PWAs** that work even without internet.
+- 📱 I craft **Android apps** — from offline-first utilities to Play Store-ready releases.
 - 📊 I turn raw data into **clear dashboards and insights** as a Data Analyst.
-- 🧰 Comfortable across the stack: **JavaScript, TypeScript, React, Python**.
+- 🧰 Comfortable across the stack: **JavaScript, TypeScript, React, Python, Kotlin**.
 - 🤝 **Open to full-time roles and freelance projects** — remote, worldwide.
 - 📍 Based in **India** 🇮🇳
 
@@ -55,8 +56,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -81,6 +84,12 @@
 | 💰 [Hisaab-Sathi](https://github.com/SnakeEye-sudo/Hisaab-Sathi) | Daily finance & udhar ledger with expense tracking | `JavaScript` |
 | 🧮 [Ganit-Sathi](https://github.com/SnakeEye-sudo/Ganit-Sathi) | Calculator & converter studio (currency, units, age) | `JavaScript` |
 | 🗺️ [Bettiah-Maps](https://github.com/SnakeEye-sudo/Bettiah-Maps) | Interactive map of Bettiah with location services | `JavaScript` |
+
+### 📱 Android Apps
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| 📦 [indus-appstore-android](https://github.com/SnakeEye-sudo/indus-appstore-android) | Android app deployment to Indus Appstore via GitHub Actions — APK, AAB & APKS release automation | `Android` `Kotlin` |
 
 ### 🟦 TypeScript Apps
 
@@ -121,7 +130,6 @@ Projects I have forked to study, learn from, and contribute to:
 | 🛒 [BizzAI](https://github.com/SnakeEye-sudo/BizzAI) | MERN-stack POS & inventory system |
 
 > 🔒 Private repositories (work-in-progress & client projects) are kept separate and are not shown publicly.
-
 
 ---
 
@@ -166,73 +174,77 @@ _This section updates automatically whenever I create or update a public reposit
 | [awesome-profile-readme-templates](https://github.com/SnakeEye-sudo/awesome-profile-readme-templates) | 🚀 A curated collection of 10 stunning GitHub Profile README templates, tools, generators, and resources to make your profile stand out! | `JavaScript` |
 | [fun-mini-games-pack](https://github.com/SnakeEye-sudo/fun-mini-games-pack) | 🎮 Ultimate Fun Mini Games Pack - Multiple engaging games including Snake, Tetris, Flappy Bird & more! No API needed, pure JavaScript fun. Created by Er. Sangam Krishna | `HTML` |
 | [youtube-video-downloader](https://github.com/SnakeEye-sudo/youtube-video-downloader) | A modern web application to download YouTube videos in multiple quality formats with a beautiful UI and fast processing | `JavaScript` |
-| [particle-galaxy-3d](https://github.com/SnakeEye-sudo/particle-galaxy-3d) | 🌌 An interactive 3D particle galaxy with real-time physics simulation, mouse controls, and stunning visual effects. Explore a universe of particles with gravity, orbital mechanics, and collision detection. Built with Three.js WebGL for maximum performance. | `HTML` |
-| [audio-spectrum-3d](https://github.com/SnakeEye-sudo/audio-spectrum-3d) | 🎵 An immersive 3D audio spectrum visualizer built with Three.js, featuring real-time WebAudio API integration, particle effects, and interactive controls. Upload any audio file or use microphone input to visualize sound in stunning 3D.. | `HTML` |
-| [snakeeye-orbits-3d](https://github.com/SnakeEye-sudo/snakeeye-orbits-3d) | A stunning 3D interactive portfolio showcasing orbiting GitHub projects around a glowing SnakeEye core. Built with Three.js, featuring real-time cursor tracking and smooth animations. | `JavaScript` |
+| [particle-galaxy-3d](https://github.com/SnakeEye-sudo/particle-galaxy-3d) | 🌌 An interactive 3D particle galaxy with real-time physics simulation, mouse controls, and stunning visual effects. | `HTML` |
+| [audio-spectrum-3d](https://github.com/SnakeEye-sudo/audio-spectrum-3d) | 🎵 An immersive 3D audio spectrum visualizer built with Three.js, featuring real-time WebAudio API integration. | `HTML` |
+| [snakeeye-orbits-3d](https://github.com/SnakeEye-sudo/snakeeye-orbits-3d) | A stunning 3D interactive portfolio showcasing orbiting GitHub projects around a glowing SnakeEye core. | `JavaScript` |
 | [Habits-Tracker](https://github.com/SnakeEye-sudo/Habits-Tracker) | An offline-first productivity and habit tracking app built with vanilla JavaScript. | `JavaScript` |
-| [movie-recommender](https://github.com/SnakeEye-sudo/movie-recommender) | AI-powered movie recommendation engine built with vanilla JavaScript. Get personalized movie suggestions based on your preferences! | `JavaScript` |
-| [bettiah-map](https://github.com/SnakeEye-sudo/bettiah-map) | An interactive web map of Bettiah built with Leaflet and OpenStreetMap. Displays key locations, landmarks, and geographical features of Bettiah region. | `HTML` |
-| [ChatFlow-Pro](https://github.com/SnakeEye-sudo/ChatFlow-Pro) | 🚀 ChatFlow Pro - Real-time WebSocket-based chat application with AI-powered message suggestions, typing indicators, and advanced user presence tracking. Production-ready with JWT auth, rate limiting, and comprehensive logging. | `HTML` |
-| [smus-website](https://github.com/SnakeEye-sudo/smus-website) | Official website for SAUBHAGYA MAHILA UTTHAN SAMITI - Empowering women, educating children, and delivering healthcare in West Champaran, Bihar | `HTML` |
-| [snakeeye-lab](https://github.com/SnakeEye-sudo/snakeeye-lab) | SnakeEye Lab: A 12-month structured journey (Dec 2025 - Dec 2026) of deliberate project evolution. Monthly themes from Zero-API Web Apps to Real-World Clones. Tracking skill progression through polished, production-ready builds. | `HTML` |
+| [movie-recommender](https://github.com/SnakeEye-sudo/movie-recommender) | AI-powered movie recommendation engine built with vanilla JavaScript. | `JavaScript` |
+| [bettiah-map](https://github.com/SnakeEye-sudo/bettiah-map) | An interactive web map of Bettiah built with Leaflet and OpenStreetMap. | `HTML` |
+| [ChatFlow-Pro](https://github.com/SnakeEye-sudo/ChatFlow-Pro) | 🚀 ChatFlow Pro - Real-time WebSocket chat with AI-powered suggestions and user presence tracking. | `HTML` |
+| [smus-website](https://github.com/SnakeEye-sudo/smus-website) | Official website for SAUBHAGYA MAHILA UTTHAN SAMITI - West Champaran, Bihar | `HTML` |
+| [snakeeye-lab](https://github.com/SnakeEye-sudo/snakeeye-lab) | SnakeEye Lab: A 12-month structured journey of deliberate project evolution. Dec 2025 - Dec 2026. | `HTML` |
 | [snakeeye-sudo.github.io](https://github.com/SnakeEye-sudo/snakeeye-sudo.github.io) | GitHub Pages root site | `HTML` |
 | [Aapka-Sathi](https://github.com/SnakeEye-sudo/Aapka-Sathi) | Family hub for every Sathi app, with the live registry, standards, and expansion system in one place. | `JavaScript` |
+
+### 📱 Android Apps
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| [indus-appstore-android](https://github.com/SnakeEye-sudo/indus-appstore-android) | Android app deployment to Indus Appstore using GitHub Actions. Demonstrates PhonePe/Indus-Flows workflow automation for APK, AAB, and APKS releases. | `Android` |
 
 ### 🟦 TypeScript Apps
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [VaakSetu](https://github.com/SnakeEye-sudo/VaakSetu) | Open-source browser-based Brain-Computer Interface for paralyzed patients — P300 + SSVEP + TensorFlow.js | `TypeScript` |
-| [Sanatan-Vedic-Jyotish](https://github.com/SnakeEye-sudo/Sanatan-Vedic-Jyotish) | A comprehensive, offline-capable Vedic Astrology application offering Kundali generation, Gun Milan (Matchmaking), and Numerology with a spiritual Sanatan UI. | `TypeScript` |
-| [harihar-ai](https://github.com/SnakeEye-sudo/harihar-ai) | HariHar (हरिहर) – BharatGen Param-1 powered multilingual Indian AI Assistant (Hindi, English, Indic languages) | `TypeScript` |
+| [Sanatan-Vedic-Jyotish](https://github.com/SnakeEye-sudo/Sanatan-Vedic-Jyotish) | A comprehensive, offline-capable Vedic Astrology application. | `TypeScript` |
+| [harihar-ai](https://github.com/SnakeEye-sudo/harihar-ai) | HariHar – BharatGen Param-1 powered multilingual Indian AI Assistant | `TypeScript` |
 
 ### 📊 Data Analyst & Data Apps
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [Jal-Sathi](https://github.com/SnakeEye-sudo/Jal-Sathi) | Hydration companion with goals, logging, and reminder rhythm in a calm mobile dashboard. | `JavaScript` |
-| [order-management-frontend](https://github.com/SnakeEye-sudo/order-management-frontend) | 🛍️ OrderHub — a modern React + Vite + Tailwind storefront and admin dashboard for the Order Management System API. | `JavaScript` |
-| [Offline-Vedic-Panchang](https://github.com/SnakeEye-sudo/Offline-Vedic-Panchang) | Pure JavaScript offline Vedic Panchang and astrology dashboard. Local calendar, sundata, tithi, rashi—computed in JS only, no API. | `JavaScript` |
-| [DataIntel-3D](https://github.com/SnakeEye-sudo/DataIntel-3D) | 🚀 AI-Powered 3D Data Intelligence Dashboard | Real-time visualization, ML predictions, anomaly detection, and interactive insights for time-series data. Built with Three.js, TensorFlow.js, and Node.js | `—` |
-| [habit-tracker-ai](https://github.com/SnakeEye-sudo/habit-tracker-ai) | AI-Powered Task & Habit Tracker with Analytics Dashboard - Full-stack application with React frontend, Node.js backend, and Python AI service for habit predictions and insights. | `—` |
-| [GestureFlow](https://github.com/SnakeEye-sudo/GestureFlow) | GestureFlow - Interactive Hand Gesture Recognition Web App. Real-time gesture detection, analytics dashboard, and gesture-based command system using Deep Learning & WebGL | `HTML` |
-| [AI-Dashboard-Ultimate](https://github.com/SnakeEye-sudo/AI-Dashboard-Ultimate) | 🚀 Ultimate AI-Powered Dashboard with Real-time Weather, News, Crypto Prices, Quotes & More! 100% Free APIs | Glassmorphism UI | Live Demo Available | `HTML` |
+| [Jal-Sathi](https://github.com/SnakeEye-sudo/Jal-Sathi) | Hydration companion with goals, logging, and reminder rhythm. | `JavaScript` |
+| [order-management-frontend](https://github.com/SnakeEye-sudo/order-management-frontend) | 🛍️ OrderHub — React + Vite + Tailwind storefront and admin dashboard. | `JavaScript` |
+| [Offline-Vedic-Panchang](https://github.com/SnakeEye-sudo/Offline-Vedic-Panchang) | Pure JavaScript offline Vedic Panchang and astrology dashboard. | `JavaScript` |
+| [DataIntel-3D](https://github.com/SnakeEye-sudo/DataIntel-3D) | 🚀 AI-Powered 3D Data Intelligence Dashboard with Three.js, TensorFlow.js, and Node.js | `—` |
+| [habit-tracker-ai](https://github.com/SnakeEye-sudo/habit-tracker-ai) | AI-Powered Task & Habit Tracker with Analytics Dashboard. | `—` |
+| [GestureFlow](https://github.com/SnakeEye-sudo/GestureFlow) | Interactive Hand Gesture Recognition Web App with Deep Learning & WebGL | `HTML` |
+| [AI-Dashboard-Ultimate](https://github.com/SnakeEye-sudo/AI-Dashboard-Ultimate) | 🚀 Ultimate AI-Powered Dashboard with Real-time Weather, News, Crypto Prices & More! | `HTML` |
 
 ### 🐍 Python
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [businesspulse-analytics-dashboard](https://github.com/SnakeEye-sudo/businesspulse-analytics-dashboard) | Advanced data analyst dashboard using Streamlit, Plotly, Python, forecasting, cohort retention, and anomaly detection. | `Python` |
-| [data-analyst-salary-analysis](https://github.com/SnakeEye-sudo/data-analyst-salary-analysis) | 📊 Exploratory Data Analysis of global Data Analyst / Data Science salaries — pandas, data cleaning, insights & visualizations. A practical, portfolio-ready DA project. | `Python` |
+| [data-analyst-salary-analysis](https://github.com/SnakeEye-sudo/data-analyst-salary-analysis) | 📊 EDA of global Data Analyst salaries — pandas, data cleaning, insights & visualizations. | `Python` |
 | [OpenJarvis](https://github.com/SnakeEye-sudo/OpenJarvis) | Personal AI Voice Assistant with voice command recognition, TTS, AI chatbot, automation, and scheduler capabilities | `Python` |
-| [SnakeMediaPlayer](https://github.com/SnakeEye-sudo/SnakeMediaPlayer) | A Python-based media player with SnakeEye theme. Open-source starter project for learning and contributing. | `Python` |
-| [SynesthesiaComposer](https://github.com/SnakeEye-sudo/SynesthesiaComposer) | A Streamlit app that transforms sensory input into musical compositions using synesthesia principles | `Python` |
-| [MetaStory](https://github.com/SnakeEye-sudo/MetaStory) | Interactive storytelling simulation platform with PyGame-based scenario creation and visualization | `Python` |
-| [codeflow-ai-reviewer](https://github.com/SnakeEye-sudo/codeflow-ai-reviewer) | 🤖 AI-powered GitHub PR code review bot. Automated code quality analysis, security checks, and best practices with OpenAI GPT-4. Integrate with GitHub Actions for seamless CI/CD workflow. | `Python` |
-| [Resume-AI](https://github.com/SnakeEye-sudo/Resume-AI) | Privacy-focused, local-first AI-powered resume analyzer and job matcher. 100% offline with no API keys required. | `Python` |
+| [SnakeMediaPlayer](https://github.com/SnakeEye-sudo/SnakeMediaPlayer) | A Python-based media player with SnakeEye theme. | `Python` |
+| [SynesthesiaComposer](https://github.com/SnakeEye-sudo/SynesthesiaComposer) | A Streamlit app that transforms sensory input into musical compositions. | `Python` |
+| [MetaStory](https://github.com/SnakeEye-sudo/MetaStory) | Interactive storytelling simulation platform with PyGame. | `Python` |
+| [codeflow-ai-reviewer](https://github.com/SnakeEye-sudo/codeflow-ai-reviewer) | 🤖 AI-powered GitHub PR code review bot with OpenAI GPT-4. | `Python` |
+| [Resume-AI](https://github.com/SnakeEye-sudo/Resume-AI) | Privacy-focused, local-first AI-powered resume analyzer and job matcher. | `Python` |
 
 ### 📦 Other Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [project-requests](https://github.com/SnakeEye-sudo/project-requests) | Open a project request issue — tell me what you'd lke me to build for you. | `—` |
-| [Chrono-DB](https://github.com/SnakeEye-sudo/Chrono-DB) | A distributed temporal database allowing queries of any historical state with millisecond precision using CRDTs for multi-master replication and Raft consensus for strong consistency | `Go` |
-| [NeuralForge](https://github.com/SnakeEye-sudo/NeuralForge) | An autonomous ML framework using meta-learning and genetic algorithms to evolve neural architectures in real-time with automatic feature engineering and zero-downtime deployments | `Haskell` |
-| [QuantumMesh](https://github.com/SnakeEye-sudo/QuantumMesh) | A revolutionary distributed quantum circuit simulator leveraging GPU acceleration and fault-tolerant algorithms to simulate 40+ qubit circuits with real-time visualization | `Rust` |
-| [Ultimate-Chess-Game](https://github.com/SnakeEye-sudo/Ultimate-Chess-Game) | 🎮 Ultimate Chess Game with stunning 3D graphics, AI opponent, and multiplayer mode. Built with Java + JavaFX/OpenGL. Single Player (vs AI) & Multiplayer (Local + Online) | Developed by Er. Sangam Krishna | `—` |
-| [ExamSmart](https://github.com/SnakeEye-sudo/ExamSmart) | AI-Powered Exam Question Bank Manager for UPSC/BPSC exam preparation. Features: Question Database | User Progress Tracking | Performance Analytics | Personalized Learning Paths | `—` |
-| [indus-appstore-android](https://github.com/SnakeEye-sudo/indus-appstore-android) | Android app deployment to Indus Appstore using GitHub Actions. Demonstrates PhonePe/Indus-Flows workflow automation for APK, AAB, and APKS releases. | `—` |
+| [project-requests](https://github.com/SnakeEye-sudo/project-requests) | Open a project request issue — tell me what you'd like me to build for you. | `—` |
+| [Chrono-DB](https://github.com/SnakeEye-sudo/Chrono-DB) | A distributed temporal database with CRDTs and Raft consensus | `Go` |
+| [NeuralForge](https://github.com/SnakeEye-sudo/NeuralForge) | Autonomous ML framework using meta-learning and genetic algorithms | `Haskell` |
+| [QuantumMesh](https://github.com/SnakeEye-sudo/QuantumMesh) | Distributed quantum circuit simulator with GPU acceleration | `Rust` |
+| [Ultimate-Chess-Game](https://github.com/SnakeEye-sudo/Ultimate-Chess-Game) | 🎮 Ultimate Chess Game with 3D graphics, AI opponent, and multiplayer. Built with Java + JavaFX. | `—` |
+| [ExamSmart](https://github.com/SnakeEye-sudo/ExamSmart) | AI-Powered Exam Question Bank Manager for UPSC/BPSC preparation. | `—` |
+| [indus-appstore-android](https://github.com/SnakeEye-sudo/indus-appstore-android) | Android app deployment to Indus Appstore using GitHub Actions. | `—` |
 | [heart-sleeve-project](https://github.com/SnakeEye-sudo/heart-sleeve-project) | — | `—` |
 
 <!-- PROJECTS:END -->
-
-
 
 <div align="center">
 
 ## 💼 Available for Work
 
-I am open to **full-time roles** and **freelance projects** in **Web App Development** and **Data Analysis**.
+I am open to **full-time roles** and **freelance projects** in **Web App Development**, **Android App Development**, and **Data Analysis**.
 
 <a href="mailto:krishna.sangam11rsm@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-2EA44F?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sangam-k-799ba8373"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -240,7 +252,6 @@ I am open to **full-time roles** and **freelance projects** in **Web App Develop
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 
 </div>
-
 
 ---
 
@@ -253,6 +264,6 @@ A full-stack project built together with **[Rimjhim Krishna (@rimjhimkrishna)](h
 | 🎨 **Frontend** | **Sangam Krishna (me)** | React + Vite + Tailwind storefront & admin dashboard, deployed on Vercel |
 | 🛠️ **Backend** | **Rimjhim Krishna ([@rimjhimkrishna](https://github.com/rimjhimkrishna))** | Spring Boot REST API, JWT security, PostgreSQL & Apache Kafka |
 
-🔗 **Frontend repo:** [order-management-frontend](https://github.com/SnakeEye-sudo/order-management-frontend)  
-🔗 **Backend repo:** [order-management-api](https://github.com/rimjhimkrishna/order-management-api)  
+🔗 **Frontend repo:** [order-management-frontend](https://github.com/SnakeEye-sudo/order-management-frontend)
+🔗 **Backend repo:** [order-management-api](https://github.com/rimjhimkrishna/order-management-api)
 🚀 **Live storefront:** https://order-management-frontend-kohl.vercel.app
