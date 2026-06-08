@@ -138,12 +138,24 @@ _This section updates automatically whenever I create or update a public reposit
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [Antariksh-Sathi](https://github.com/SnakeEye-sudo/Antariksh-Sathi) | Offline-first space companion for sky events, ISRO watch, and stargazing curiosity. | `JavaScript` |
+| [Panchang-Sathi](https://github.com/SnakeEye-sudo/Panchang-Sathi) | Daily Hindu calendar with tithi, nakshatra, sunrise timings, and festival context. | `JavaScript` |
+| [Ganit-Sathi](https://github.com/SnakeEye-sudo/Ganit-Sathi) | Premium calculator and converter studio with currency, units, and age tools in one app. | `JavaScript` |
+| [Mausam-Sathi](https://github.com/SnakeEye-sudo/Mausam-Sathi) | Weather planner with city search, current conditions, and five-day outlook. | `JavaScript` |
 | [pariksha-sathi](https://github.com/SnakeEye-sudo/pariksha-sathi) | Study planner for competitive exams with syllabus-aware planning, streaks, and cloud-ready family flow. | `JavaScript` |
+| [Hisaab-Sathi](https://github.com/SnakeEye-sudo/Hisaab-Sathi) | Daily finance and udhar ledger app with mobile-first expense tracking and reminders. | `JavaScript` |
+| [Mann-Sathi](https://github.com/SnakeEye-sudo/Mann-Sathi) | Journal, mood tracking, and supportive daily reflection app for the Sathi family. | `JavaScript` |
+| [Paltu-Sathi](https://github.com/SnakeEye-sudo/Paltu-Sathi) | Cute virtual pet app with local care meters, mood changes, and playful actions. | `JavaScript` |
+| [Sanket-Sathi](https://github.com/SnakeEye-sudo/Sanket-Sathi) | Hindi-English Morse translator with fast local conversion and offline-ready utility flow. | `JavaScript` |
+| [Ank-Sathi](https://github.com/SnakeEye-sudo/Ank-Sathi) | Numerology studio with life path, birth number, attitude number, and name number mapping. | `JavaScript` |
+| [Khel-Sathi](https://github.com/SnakeEye-sudo/Khel-Sathi) | Family tic tac toe app with friend mode, bot mode, and a polished mobile board. | `JavaScript` |
+| [Sikka-Sathi](https://github.com/SnakeEye-sudo/Sikka-Sathi) | Coin flip and dice roller board for quick chance decisions in the Sathi family. | `JavaScript` |
+| [Dhyan-Sathi](https://github.com/SnakeEye-sudo/Dhyan-Sathi) | Focus timer and study watch with preset deep-work cycles and break rhythm. | `JavaScript` |
+| [Dastavez-Sathi](https://github.com/SnakeEye-sudo/Dastavez-Sathi) | Mobile-first document scanner app for the Aapka-Sathi family. | `JavaScript` |
+| [rozgar-sathi](https://github.com/SnakeEye-sudo/rozgar-sathi) | Government jobs portal with job discovery, resume flow, and application tracking for the Sathi family. | `TypeScript` |
+| [Samachar-Sathi](https://github.com/SnakeEye-sudo/Samachar-Sathi) | Current affairs and analysis app with daily intelligence flow and local-first reading tools. | `TypeScript` |
 | [Narayani-Waterpark](https://github.com/SnakeEye-sudo/Narayani-Waterpark) | — | `HTML` |
 | [Dhan-Sathi](https://github.com/SnakeEye-sudo/Dhan-Sathi) | Dhan Sathi — Smart personal finance app with Google Sign-In, Drive sync, Artha AI, tax tools & CA-ready reports | `TypeScript` |
 | [Bettiah-Business-Directory](https://github.com/SnakeEye-sudo/Bettiah-Business-Directory) | A crowd-sourced directory & review platform for local businesses in Bettiah with OpenStreetMap integration, reviews, and listing submission capabilities. All data stored locally/statically. | `HTML` |
-| [rozgar-sathi](https://github.com/SnakeEye-sudo/rozgar-sathi) | Government jobs portal with job discovery, resume flow, and application tracking for the Sathi family. | `TypeScript` |
-| [Samachar-Sathi](https://github.com/SnakeEye-sudo/Samachar-Sathi) | Current affairs and analysis app with daily intelligence flow and local-first reading tools. | `TypeScript` |
 | [Bettiah-Maps](https://github.com/SnakeEye-sudo/Bettiah-Maps) | A dedicated Google Maps-based web application focusing on Bettiah, Bihar. Leverages Google Maps JavaScript API for location services, navigation, and local overlays. | `JavaScript` |
 | [Bettiah-Folk-Story-Wiki](https://github.com/SnakeEye-sudo/Bettiah-Folk-Story-Wiki) | Crowd-sourced wiki for Bettiah/Bihar folk stories and local legends. Features: story submission, search, genres, and community voting. No external APIs; local/static data. | `JavaScript` |
 | [Offline-Exam-Practice](https://github.com/SnakeEye-sudo/Offline-Exam-Practice) | Offline browser MCQ practice app for UPSC/BPSC/local exams. Features: subjects, timer, review, answer check, analytics—all questions/answers in local static JSON. | `JavaScript` |
@@ -164,19 +176,7 @@ _This section updates automatically whenever I create or update a public reposit
 | [smus-website](https://github.com/SnakeEye-sudo/smus-website) | Official website for SAUBHAGYA MAHILA UTTHAN SAMITI - Empowering women, educating children, and delivering healthcare in West Champaran, Bihar | `HTML` |
 | [snakeeye-lab](https://github.com/SnakeEye-sudo/snakeeye-lab) | SnakeEye Lab: A 12-month structured journey (Dec 2025 - Dec 2026) of deliberate project evolution. Monthly themes from Zero-API Web Apps to Real-World Clones. Tracking skill progression through polished, production-ready builds. | `HTML` |
 | [snakeeye-sudo.github.io](https://github.com/SnakeEye-sudo/snakeeye-sudo.github.io) | GitHub Pages root site | `HTML` |
-| [Sikka-Sathi](https://github.com/SnakeEye-sudo/Sikka-Sathi) | Coin flip and dice roller board for quick chance decisions in the Sathi family. | `JavaScript` |
-| [Dhyan-Sathi](https://github.com/SnakeEye-sudo/Dhyan-Sathi) | Focus timer and study watch with preset deep-work cycles and break rhythm. | `JavaScript` |
-| [Khel-Sathi](https://github.com/SnakeEye-sudo/Khel-Sathi) | Family tic tac toe app with friend mode, bot mode, and a polished mobile board. | `JavaScript` |
-| [Mausam-Sathi](https://github.com/SnakeEye-sudo/Mausam-Sathi) | Weather planner with city search, current conditions, and five-day outlook. | `JavaScript` |
-| [Paltu-Sathi](https://github.com/SnakeEye-sudo/Paltu-Sathi) | Cute virtual pet app with local care meters, mood changes, and playful actions. | `JavaScript` |
-| [Panchang-Sathi](https://github.com/SnakeEye-sudo/Panchang-Sathi) | Daily Hindu calendar with tithi, nakshatra, sunrise timings, and festival context. | `JavaScript` |
 | [Aapka-Sathi](https://github.com/SnakeEye-sudo/Aapka-Sathi) | Family hub for every Sathi app, with the live registry, standards, and expansion system in one place. | `JavaScript` |
-| [Ank-Sathi](https://github.com/SnakeEye-sudo/Ank-Sathi) | Numerology studio with life path, birth number, attitude number, and name number mapping. | `JavaScript` |
-| [Ganit-Sathi](https://github.com/SnakeEye-sudo/Ganit-Sathi) | Premium calculator and converter studio with currency, units, and age tools in one app. | `JavaScript` |
-| [Hisaab-Sathi](https://github.com/SnakeEye-sudo/Hisaab-Sathi) | Daily finance and udhar ledger app with mobile-first expense tracking and reminders. | `JavaScript` |
-| [Dastavez-Sathi](https://github.com/SnakeEye-sudo/Dastavez-Sathi) | Mobile-first document scanner app for the Aapka-Sathi family. | `JavaScript` |
-| [Mann-Sathi](https://github.com/SnakeEye-sudo/Mann-Sathi) | Journal, mood tracking, and supportive daily reflection app for the Sathi family. | `JavaScript` |
-| [Sanket-Sathi](https://github.com/SnakeEye-sudo/Sanket-Sathi) | Hindi-English Morse translator with fast local conversion and offline-ready utility flow. | `JavaScript` |
 
 ### 🟦 TypeScript Apps
 
@@ -190,13 +190,13 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [Jal-Sathi](https://github.com/SnakeEye-sudo/Jal-Sathi) | Hydration companion with goals, logging, and reminder rhythm in a calm mobile dashboard. | `JavaScript` |
 | [order-management-frontend](https://github.com/SnakeEye-sudo/order-management-frontend) | 🛍️ OrderHub — a modern React + Vite + Tailwind storefront and admin dashboard for the Order Management System API. | `JavaScript` |
 | [Offline-Vedic-Panchang](https://github.com/SnakeEye-sudo/Offline-Vedic-Panchang) | Pure JavaScript offline Vedic Panchang and astrology dashboard. Local calendar, sundata, tithi, rashi—computed in JS only, no API. | `JavaScript` |
 | [DataIntel-3D](https://github.com/SnakeEye-sudo/DataIntel-3D) | 🚀 AI-Powered 3D Data Intelligence Dashboard | Real-time visualization, ML predictions, anomaly detection, and interactive insights for time-series data. Built with Three.js, TensorFlow.js, and Node.js | `—` |
 | [habit-tracker-ai](https://github.com/SnakeEye-sudo/habit-tracker-ai) | AI-Powered Task & Habit Tracker with Analytics Dashboard - Full-stack application with React frontend, Node.js backend, and Python AI service for habit predictions and insights. | `—` |
 | [GestureFlow](https://github.com/SnakeEye-sudo/GestureFlow) | GestureFlow - Interactive Hand Gesture Recognition Web App. Real-time gesture detection, analytics dashboard, and gesture-based command system using Deep Learning & WebGL | `HTML` |
 | [AI-Dashboard-Ultimate](https://github.com/SnakeEye-sudo/AI-Dashboard-Ultimate) | 🚀 Ultimate AI-Powered Dashboard with Real-time Weather, News, Crypto Prices, Quotes & More! 100% Free APIs | Glassmorphism UI | Live Demo Available | `HTML` |
-| [Jal-Sathi](https://github.com/SnakeEye-sudo/Jal-Sathi) | Hydration companion with goals, logging, and reminder rhythm in a calm mobile dashboard. | `JavaScript` |
 
 ### 🐍 Python
 
