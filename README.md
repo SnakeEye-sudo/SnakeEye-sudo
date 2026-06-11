@@ -146,6 +146,7 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [bsckf](https://github.com/SnakeEye-sudo/bsckf) | — | `HTML` |
 | [Antariksh-Sathi](https://github.com/SnakeEye-sudo/Antariksh-Sathi) | Offline-first space companion for sky events, ISRO watch, and stargazing curiosity. | `JavaScript` |
 | [pariksha-sathi](https://github.com/SnakeEye-sudo/pariksha-sathi) | Study planner for competitive exams with syllabus-aware planning, streaks, and cloud-ready family flow. | `JavaScript` |
 | [Panchang-Sathi](https://github.com/SnakeEye-sudo/Panchang-Sathi) | Daily Hindu calendar with tithi, nakshatra, sunrise timings, and festival context. | `JavaScript` |
@@ -175,8 +176,8 @@ _This section updates automatically whenever I create or update a public reposit
 | [awesome-profile-readme-templates](https://github.com/SnakeEye-sudo/awesome-profile-readme-templates) | 🚀 A curated collection of 10 stunning GitHub Profile README templates, tools, generators, and resources to make your profile stand out! | `JavaScript` |
 | [fun-mini-games-pack](https://github.com/SnakeEye-sudo/fun-mini-games-pack) | 🎮 Ultimate Fun Mini Games Pack - Multiple engaging games including Snake, Tetris, Flappy Bird & more! No API needed, pure JavaScript fun. Created by Er. Sangam Krishna | `HTML` |
 | [youtube-video-downloader](https://github.com/SnakeEye-sudo/youtube-video-downloader) | A modern web application to download YouTube videos in multiple quality formats with a beautiful UI and fast processing | `JavaScript` |
-| [particle-galaxy-3d](https://github.com/SnakeEye-sudo/particle-galaxy-3d) | 🌌 An interactive 3D particle galaxy with real-time physics simulation, mouse controls, and stunning visual effects. Explore a universe of particles with gravity, orbital mechanics, and collision detection. Built with Three.js WebGL for maximum performance. | `HTML` |
 | [audio-spectrum-3d](https://github.com/SnakeEye-sudo/audio-spectrum-3d) | 🎵 An immersive 3D audio spectrum visualizer built with Three.js, featuring real-time WebAudio API integration, particle effects, and interactive controls. Upload any audio file or use microphone input to visualize sound in stunning 3D.. | `HTML` |
+| [particle-galaxy-3d](https://github.com/SnakeEye-sudo/particle-galaxy-3d) | 🌌 An interactive 3D particle galaxy with real-time physics simulation, mouse controls, and stunning visual effects. Explore a universe of particles with gravity, orbital mechanics, and collision detection. Built with Three.js WebGL for maximum performance. | `HTML` |
 | [snakeeye-orbits-3d](https://github.com/SnakeEye-sudo/snakeeye-orbits-3d) | A stunning 3D interactive portfolio showcasing orbiting GitHub projects around a glowing SnakeEye core. Built with Three.js, featuring real-time cursor tracking and smooth animations. | `JavaScript` |
 | [Habits-Tracker](https://github.com/SnakeEye-sudo/Habits-Tracker) | An offline-first productivity and habit tracking app built with vanilla JavaScript. | `JavaScript` |
 | [movie-recommender](https://github.com/SnakeEye-sudo/movie-recommender) | AI-powered movie recommendation engine built with vanilla JavaScript. Get personalized movie suggestions based on your preferences! | `JavaScript` |
