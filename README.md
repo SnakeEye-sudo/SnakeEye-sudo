@@ -146,9 +146,9 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [bsckf](https://github.com/SnakeEye-sudo/bsckf) | — | `HTML` |
 | [Antariksh-Sathi](https://github.com/SnakeEye-sudo/Antariksh-Sathi) | Offline-first space companion for sky events, ISRO watch, and stargazing curiosity. | `JavaScript` |
 | [pariksha-sathi](https://github.com/SnakeEye-sudo/pariksha-sathi) | Study planner for competitive exams with syllabus-aware planning, streaks, and cloud-ready family flow. | `JavaScript` |
+| [bsckf](https://github.com/SnakeEye-sudo/bsckf) | — | `HTML` |
 | [Panchang-Sathi](https://github.com/SnakeEye-sudo/Panchang-Sathi) | Daily Hindu calendar with tithi, nakshatra, sunrise timings, and festival context. | `JavaScript` |
 | [Ganit-Sathi](https://github.com/SnakeEye-sudo/Ganit-Sathi) | Premium calculator and converter studio with currency, units, and age tools in one app. | `JavaScript` |
 | [Mausam-Sathi](https://github.com/SnakeEye-sudo/Mausam-Sathi) | Weather planner with city search, current conditions, and five-day outlook. | `JavaScript` |
