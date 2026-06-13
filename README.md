@@ -212,9 +212,9 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [OpenJarvis](https://github.com/SnakeEye-sudo/OpenJarvis) | Personal AI Voice Assistant with voice command recognition, TTS, AI chatbot, automation, and scheduler capabilities | `Python` |
 | [businesspulse-analytics-dashboard](https://github.com/SnakeEye-sudo/businesspulse-analytics-dashboard) | Advanced data analyst dashboard using Streamlit, Plotly, Python, forecasting, cohort retention, and anomaly detection. | `Python` |
 | [data-analyst-salary-analysis](https://github.com/SnakeEye-sudo/data-analyst-salary-analysis) | 📊 Exploratory Data Analysis of global Data Analyst / Data Science salaries — pandas, data cleaning, insights & visualizations. A practical, portfolio-ready DA project. | `Python` |
-| [OpenJarvis](https://github.com/SnakeEye-sudo/OpenJarvis) | Personal AI Voice Assistant with voice command recognition, TTS, AI chatbot, automation, and scheduler capabilities | `Python` |
 | [SnakeMediaPlayer](https://github.com/SnakeEye-sudo/SnakeMediaPlayer) | A Python-based media player with SnakeEye theme. Open-source starter project for learning and contributing. | `Python` |
 | [SynesthesiaComposer](https://github.com/SnakeEye-sudo/SynesthesiaComposer) | A Streamlit app that transforms sensory input into musical compositions using synesthesia principles | `Python` |
 | [MetaStory](https://github.com/SnakeEye-sudo/MetaStory) | Interactive storytelling simulation platform with PyGame-based scenario creation and visualization | `Python` |
