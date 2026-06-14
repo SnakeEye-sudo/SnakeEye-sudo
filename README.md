@@ -146,6 +146,7 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [snakeeye-lab](https://github.com/SnakeEye-sudo/snakeeye-lab) | SnakeEye Lab: A 12-month structured journey (Dec 2025 - Dec 2026) of deliberate project evolution. Monthly themes from Zero-API Web Apps to Real-World Clones. Tracking skill progression through polished, production-ready builds. | `HTML` |
 | [Antariksh-Sathi](https://github.com/SnakeEye-sudo/Antariksh-Sathi) | Offline-first space companion for sky events, ISRO watch, and stargazing curiosity. | `JavaScript` |
 | [pariksha-sathi](https://github.com/SnakeEye-sudo/pariksha-sathi) | Study planner for competitive exams with syllabus-aware planning, streaks, and cloud-ready family flow. | `JavaScript` |
 | [bsckf](https://github.com/SnakeEye-sudo/bsckf) | — | `HTML` |
@@ -184,7 +185,6 @@ _This section updates automatically whenever I create or update a public reposit
 | [bettiah-map](https://github.com/SnakeEye-sudo/bettiah-map) | An interactive web map of Bettiah built with Leaflet and OpenStreetMap. Displays key locations, landmarks, and geographical features of Bettiah region. | `HTML` |
 | [ChatFlow-Pro](https://github.com/SnakeEye-sudo/ChatFlow-Pro) | 🚀 ChatFlow Pro - Real-time WebSocket-based chat application with AI-powered message suggestions, typing indicators, and advanced user presence tracking. Production-ready with JWT auth, rate limiting, and comprehensive logging. | `HTML` |
 | [smus-website](https://github.com/SnakeEye-sudo/smus-website) | Official website for SAUBHAGYA MAHILA UTTHAN SAMITI - Empowering women, educating children, and delivering healthcare in West Champaran, Bihar | `HTML` |
-| [snakeeye-lab](https://github.com/SnakeEye-sudo/snakeeye-lab) | SnakeEye Lab: A 12-month structured journey (Dec 2025 - Dec 2026) of deliberate project evolution. Monthly themes from Zero-API Web Apps to Real-World Clones. Tracking skill progression through polished, production-ready builds. | `HTML` |
 | [snakeeye-sudo.github.io](https://github.com/SnakeEye-sudo/snakeeye-sudo.github.io) | GitHub Pages root site | `HTML` |
 | [Aapka-Sathi](https://github.com/SnakeEye-sudo/Aapka-Sathi) | Family hub for every Sathi app, with the live registry, standards, and expansion system in one place. | `JavaScript` |
 
