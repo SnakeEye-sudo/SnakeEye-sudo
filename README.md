@@ -146,8 +146,8 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [pariksha-sathi](https://github.com/SnakeEye-sudo/pariksha-sathi) | Study planner for competitive exams with syllabus-aware planning, streaks, and cloud-ready family flow. | `JavaScript` |
 | [Antariksh-Sathi](https://github.com/SnakeEye-sudo/Antariksh-Sathi) | Offline-first space companion for sky events, ISRO watch, and stargazing curiosity. | `JavaScript` |
+| [pariksha-sathi](https://github.com/SnakeEye-sudo/pariksha-sathi) | Study planner for competitive exams with syllabus-aware planning, streaks, and cloud-ready family flow. | `JavaScript` |
 | [snakeeye-lab](https://github.com/SnakeEye-sudo/snakeeye-lab) | SnakeEye Lab: A 12-month structured journey (Dec 2025 - Dec 2026) of deliberate project evolution. Monthly themes from Zero-API Web Apps to Real-World Clones. Tracking skill progression through polished, production-ready builds. | `HTML` |
 | [Panchang-Sathi](https://github.com/SnakeEye-sudo/Panchang-Sathi) | Daily Hindu calendar with tithi, nakshatra, sunrise timings, and festival context. | `JavaScript` |
 | [Ganit-Sathi](https://github.com/SnakeEye-sudo/Ganit-Sathi) | Premium calculator and converter studio with currency, units, and age tools in one app. | `JavaScript` |
