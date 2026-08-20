@@ -176,8 +176,8 @@ _This section updates automatically whenever I create or update a public reposit
 | [awesome-profile-readme-templates](https://github.com/SnakeEye-sudo/awesome-profile-readme-templates) | 🚀 A curated collection of 10 stunning GitHub Profile README templates, tools, generators, and resources to make your profile stand out! | `JavaScript` |
 | [fun-mini-games-pack](https://github.com/SnakeEye-sudo/fun-mini-games-pack) | 🎮 Ultimate Fun Mini Games Pack - Multiple engaging games including Snake, Tetris, Flappy Bird & more! No API needed, pure JavaScript fun. Created by Er. Sangam Krishna | `HTML` |
 | [youtube-video-downloader](https://github.com/SnakeEye-sudo/youtube-video-downloader) | A modern web application to download YouTube videos in multiple quality formats with a beautiful UI and fast processing | `JavaScript` |
-| [audio-spectrum-3d](https://github.com/SnakeEye-sudo/audio-spectrum-3d) | 🎵 An immersive 3D audio spectrum visualizer built with Three.js, featuring real-time WebAudio API integration, particle effects, and interactive controls. Upload any audio file or use microphone input to visualize sound in stunning 3D.. | `HTML` |
 | [particle-galaxy-3d](https://github.com/SnakeEye-sudo/particle-galaxy-3d) | 🌌 An interactive 3D particle galaxy with real-time physics simulation, mouse controls, and stunning visual effects. Explore a universe of particles with gravity, orbital mechanics, and collision detection. Built with Three.js WebGL for maximum performance. | `HTML` |
+| [audio-spectrum-3d](https://github.com/SnakeEye-sudo/audio-spectrum-3d) | 🎵 An immersive 3D audio spectrum visualizer built with Three.js, featuring real-time WebAudio API integration, particle effects, and interactive controls. Upload any audio file or use microphone input to visualize sound in stunning 3D.. | `HTML` |
 | [snakeeye-orbits-3d](https://github.com/SnakeEye-sudo/snakeeye-orbits-3d) | A stunning 3D interactive portfolio showcasing orbiting GitHub projects around a glowing SnakeEye core. Built with Three.js, featuring real-time cursor tracking and smooth animations. | `JavaScript` |
 | [Habits-Tracker](https://github.com/SnakeEye-sudo/Habits-Tracker) | An offline-first productivity and habit tracking app built with vanilla JavaScript. | `JavaScript` |
 | [movie-recommender](https://github.com/SnakeEye-sudo/movie-recommender) | AI-powered movie recommendation engine built with vanilla JavaScript. Get personalized movie suggestions based on your preferences! | `JavaScript` |
@@ -191,7 +191,6 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [aiguardian1-main](https://github.com/SnakeEye-sudo/aiguardian1-main) | 🛡️ AI-powered cyber safety platform — detects scam calls, phishing & digital threats. Privacy-first. © AIGuardian. | `TypeScript` |
 | [VaakSetu](https://github.com/SnakeEye-sudo/VaakSetu) | Open-source browser-based Brain-Computer Interface for paralyzed patients — P300 + SSVEP + TensorFlow.js | `TypeScript` |
 | [Sanatan-Vedic-Jyotish](https://github.com/SnakeEye-sudo/Sanatan-Vedic-Jyotish) | A comprehensive, offline-capable Vedic Astrology application offering Kundali generation, Gun Milan (Matchmaking), and Numerology with a spiritual Sanatan UI. | `TypeScript` |
 | [harihar-ai](https://github.com/SnakeEye-sudo/harihar-ai) | HariHar (हरिहर) – BharatGen Param-1 powered multilingual Indian AI Assistant (Hindi, English, Indic languages) | `TypeScript` |
@@ -225,11 +224,11 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [QuantumMesh](https://github.com/SnakeEye-sudo/QuantumMesh) | A revolutionary distributed quantum circuit simulator leveraging GPU acceleration and fault-tolerant algorithms to simulate 40+ qubit circuits with real-time visualization | `Rust` |
 | [Sangam-Cosmo-V1](https://github.com/SnakeEye-sudo/Sangam-Cosmo-V1) | An ultimate, fast, and multi-featured web browser with built-in status-aware media downloading capabilities and rich security. | `Kotlin` |
 | [project-requests](https://github.com/SnakeEye-sudo/project-requests) | Open a project request issue — tell me what you'd lke me to build for you. | `—` |
 | [Chrono-DB](https://github.com/SnakeEye-sudo/Chrono-DB) | A distributed temporal database allowing queries of any historical state with millisecond precision using CRDTs for multi-master replication and Raft consensus for strong consistency | `Go` |
 | [NeuralForge](https://github.com/SnakeEye-sudo/NeuralForge) | An autonomous ML framework using meta-learning and genetic algorithms to evolve neural architectures in real-time with automatic feature engineering and zero-downtime deployments | `Haskell` |
-| [QuantumMesh](https://github.com/SnakeEye-sudo/QuantumMesh) | A revolutionary distributed quantum circuit simulator leveraging GPU acceleration and fault-tolerant algorithms to simulate 40+ qubit circuits with real-time visualization | `Rust` |
 | [Ultimate-Chess-Game](https://github.com/SnakeEye-sudo/Ultimate-Chess-Game) | 🎮 Ultimate Chess Game with stunning 3D graphics, AI opponent, and multiplayer mode. Built with Java + JavaFX/OpenGL. Single Player (vs AI) & Multiplayer (Local + Online) | Developed by Er. Sangam Krishna | `—` |
 | [ExamSmart](https://github.com/SnakeEye-sudo/ExamSmart) | AI-Powered Exam Question Bank Manager for UPSC/BPSC exam preparation. Features: Question Database | User Progress Tracking | Performance Analytics | Personalized Learning Paths | `—` |
 | [indus-appstore-android](https://github.com/SnakeEye-sudo/indus-appstore-android) | Android app deployment to Indus Appstore using GitHub Actions. Demonstrates PhonePe/Indus-Flows workflow automation for APK, AAB, and APKS releases. | `—` |
