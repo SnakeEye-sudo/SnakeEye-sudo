@@ -224,10 +224,10 @@ _This section updates automatically whenever I create or update a public reposit
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [Chrono-DB](https://github.com/SnakeEye-sudo/Chrono-DB) | A distributed temporal database allowing queries of any historical state with millisecond precision using CRDTs for multi-master replication and Raft consensus for strong consistency | `Go` |
 | [QuantumMesh](https://github.com/SnakeEye-sudo/QuantumMesh) | A revolutionary distributed quantum circuit simulator leveraging GPU acceleration and fault-tolerant algorithms to simulate 40+ qubit circuits with real-time visualization | `Rust` |
 | [Sangam-Cosmo-V1](https://github.com/SnakeEye-sudo/Sangam-Cosmo-V1) | An ultimate, fast, and multi-featured web browser with built-in status-aware media downloading capabilities and rich security. | `Kotlin` |
 | [project-requests](https://github.com/SnakeEye-sudo/project-requests) | Open a project request issue — tell me what you'd lke me to build for you. | `—` |
-| [Chrono-DB](https://github.com/SnakeEye-sudo/Chrono-DB) | A distributed temporal database allowing queries of any historical state with millisecond precision using CRDTs for multi-master replication and Raft consensus for strong consistency | `Go` |
 | [NeuralForge](https://github.com/SnakeEye-sudo/NeuralForge) | An autonomous ML framework using meta-learning and genetic algorithms to evolve neural architectures in real-time with automatic feature engineering and zero-downtime deployments | `Haskell` |
 | [Ultimate-Chess-Game](https://github.com/SnakeEye-sudo/Ultimate-Chess-Game) | 🎮 Ultimate Chess Game with stunning 3D graphics, AI opponent, and multiplayer mode. Built with Java + JavaFX/OpenGL. Single Player (vs AI) & Multiplayer (Local + Online) | Developed by Er. Sangam Krishna | `—` |
 | [ExamSmart](https://github.com/SnakeEye-sudo/ExamSmart) | AI-Powered Exam Question Bank Manager for UPSC/BPSC exam preparation. Features: Question Database | User Progress Tracking | Performance Analytics | Personalized Learning Paths | `—` |
